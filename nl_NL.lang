@@ -76,10 +76,10 @@ info.thermalexpansion.maxOut=Max. Uitvoer
 
 #Workbench
 info.thermalexpansion.gridClear=Wis Vervaardigings Rooster
-info.thermalexpansion.gridSet=Zet Vervaardigings Rooster Vanuit Schema
+info.thermalexpansion.gridSet=Zet Vervaardigings Rooster Vanuit Bouwschema
 info.thermalexpansion.noRecipe=Geen Recept
-info.thermalexpansion.noSchematic=Geen Schema
-info.thermalexpansion.writeSchematic=Schrijf Schema
+info.thermalexpansion.noSchematic=Geen Bouwschema
+info.thermalexpansion.writeSchematic=Schrijf Bouwschema
 
 #Activator
 info.thermalexpansion.angleLevel=Mik Vlak
@@ -133,51 +133,51 @@ info.thermalexpansion.augment.machine.1=Machine
 info.thermalexpansion.augment.secondaryChance=Tweede Kans
 info.thermalexpansion.augment.speed=Snelheid
 
-info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Side Accessibility
-info.thermalexpansion.augment.dynamoCoilDuct.0=Allows insertion and extraction of items and fluids through the coil of a dynamo.
-info.thermalexpansion.augment.dynamoEfficiency=Dynamo: Fuel Efficiency
-info.thermalexpansion.augment.dynamoOutput=Dynamo: Power Output
-info.thermalexpansion.augment.dynamoOutput.0=Additional RF/t
-info.thermalexpansion.augment.dynamoThrottle=Dynamo: Advanced Throttling
-info.thermalexpansion.augment.dynamoThrottle.0=Improves the throttling of a dynamo such that it may reduce energy output to 0 RF/t.
+info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Zijde Toegankelijkheid
+info.thermalexpansion.augment.dynamoCoilDuct.0=Staat invoer en uitvoer van items en vloeistoffen toe door de spoel van een dynamo.
+info.thermalexpansion.augment.dynamoEfficiency=Dynamo: Brandstof Efficiëntie
+info.thermalexpansion.augment.dynamoOutput=Dynamo: Energie Uitvoer
+info.thermalexpansion.augment.dynamoOutput.0=Extra RF/t
+info.thermalexpansion.augment.dynamoThrottle=Dynamo: Geanvanceerde schakeling
+info.thermalexpansion.augment.dynamoThrottle.0=Verbeter de schakeling van een dynamo zodat de energie outvoer kan worden verlaagt naar 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Automated Output
-info.thermalexpansion.augment.generalAutoTransfer.0=Allows for items and fluids to be automatically transferred out of a device.
-info.thermalexpansion.augment.generalReconfigSides=Reconfigurable Sides
-info.thermalexpansion.augment.generalReconfigSides.0=Allows for the sides of a device to be reconfigured.
-info.thermalexpansion.augment.generalRedstoneControl=Redstone Control
-info.thermalexpansion.augment.generalRedstoneControl.0=Allows for redstone control settings to be utilized on a device.
+info.thermalexpansion.augment.generalAutoTransfer=Geautomatiseerde Uitvoer
+info.thermalexpansion.augment.generalAutoTransfer.0=Staat items en vloeistoffen to om automatisch out de machine te worden getransporteerd.
+info.thermalexpansion.augment.generalReconfigSides=Herinstelbare Zijdes
+info.thermalexpansion.augment.generalReconfigSides.0=Staat het herinstellen van de zijdes van een machine toe.
+info.thermalexpansion.augment.generalRedstoneControl=Redstone Besturing
+info.thermalexpansion.augment.generalRedstoneControl.0=Staat het toepassen van redstone instellingen op een machine toe.
 
-info.thermalexpansion.augment.machineSecondary=Machine: Secondary Output
-info.thermalexpansion.augment.machineSpeed=Machine: Processing Speed
+info.thermalexpansion.augment.machineSecondary=Machine: Secundaire Uitvoer
+info.thermalexpansion.augment.machineSpeed=Machine: Verwerkings Snelheid
 
-info.thermalexpansion.capacitor.0=Activate to charge held items.
-info.thermalexpansion.capacitor.1=Use while sneaking to activate.
-info.thermalexpansion.capacitor.2=Charging held items.
-info.thermalexpansion.capacitor.3=Use while sneaking to deactivate.
-info.thermalexpansion.capacitor.4=Must remain in hotbar.
-info.thermalexpansion.capacitor.potato=Clever! But not rechargeable.
+info.thermalexpansion.capacitor.0=Activeer om items die vast worden gehouden op te laden.
+info.thermalexpansion.capacitor.1=Gebruik tijdens het sluipen om te activeren.
+info.thermalexpansion.capacitor.2=Vast gehouden items opladen.
+info.thermalexpansion.capacitor.3=Gebruik tijdens het sluipen om te deactiveren.
+info.thermalexpansion.capacitor.4=Moet op de hotbar blijven.
+info.thermalexpansion.capacitor.potato=Slim! Maar niet oplaadbaar.
 
-info.thermalexpansion.device.workbench=Crafts things; can use blueprints.
-info.thermalexpansion.device.activator=Does more than a tooltip can explain.
-info.thermalexpansion.device.breaker=Breaks blocks. Simple enough.
-info.thermalexpansion.device.nullifier=Removes things from existence.
+info.thermalexpansion.device.workbench=Vervaardigt dingen; kan bouwschema's gebruiken.
+info.thermalexpansion.device.activator=Doet meer dan dat een tooltip kan vertellen.
+info.thermalexpansion.device.breaker=Breekt blokken. Simpel Genoeg.
+info.thermalexpansion.device.nullifier=Verwijdert dingen uit hun bestaan.
 
-info.thermalexpansion.diagram.0=Use while sneaking to erase.
-info.thermalexpansion.diagram.1=Use on a device to copy its settings.
-info.thermalexpansion.diagram.2=Use on a device to transfer stored settings.
+info.thermalexpansion.diagram.0=Gebruik tijdens het sluipen om te legen.
+info.thermalexpansion.diagram.1=Gebruik op een apparaat om zijn instellingen te kopiëren.
+info.thermalexpansion.diagram.2=Gebruik op een apparaat om de opgeslagen instellingen erop te laden.
 
-info.thermalexpansion.dynamo.generate=Generates Energy (Redstone Flux).
-info.thermalexpansion.dynamo.steam=Requires water and solid fuel.
-info.thermalexpansion.dynamo.steam.0=Steam may be pumped in instead.
-info.thermalexpansion.dynamo.magmatic=Requires hot fluids.
-info.thermalexpansion.dynamo.compression=Requires fluid fuel and coolant.
-info.thermalexpansion.dynamo.reactant=Requires fluid fuel and solid reactant.
-info.thermalexpansion.dynamo.enervation=Extracts flux from various objects.
+info.thermalexpansion.dynamo.generate=Genereert Energie (Redstone Flux).
+info.thermalexpansion.dynamo.steam=Vereist water en vaste brandstof.
+info.thermalexpansion.dynamo.steam.0=Stoom mag daarvoor in de plaats worden binnengepompt.
+info.thermalexpansion.dynamo.magmatic=Vereist hete vloeistoffen.
+info.thermalexpansion.dynamo.compression=Vereist vloeibare brandstof end koelvloeistof.
+info.thermalexpansion.dynamo.reactant=Vereist vloeibare brandstof en vaste reagent.
+info.thermalexpansion.dynamo.enervation=Ontrekt flux vanuit diverse objecten.
 
-info.thermalexpansion.machine.furnace=Smelts items.
-info.thermalexpansion.machine.pulverizer=Crushes items.
-info.thermalexpansion.machine.sawmill=Provides additional lumber.
+info.thermalexpansion.machine.furnace=Smelt items.
+info.thermalexpansion.machine.pulverizer=Verpulverd items.
+info.thermalexpansion.machine.sawmill=Voorziet van extra hout.
 info.thermalexpansion.machine.smelter=Smelts alloys and metals. Two inputs.
 info.thermalexpansion.machine.crucible=Melts items into fluids.
 info.thermalexpansion.machine.transposer=Manipulates fluids and fluid containers.
@@ -237,7 +237,7 @@ item.thermalexpansion.capacitor.hardened.name=Hardened Flux Capacitor
 item.thermalexpansion.capacitor.reinforced.name=Redstone Flux Capacitor
 item.thermalexpansion.capacitor.resonant.name=Resonant Flux Capacitor
 
-item.thermalexpansion.diagram.schematic.name=Schematic
+item.thermalexpansion.diagram.schematic.name=Bouwschema
 item.thermalexpansion.diagram.redprint.name=Redprint
 
 item.thermalexpansion.florb.florb.name=Florb
@@ -291,8 +291,8 @@ tab.thermalexpansion.cell.0=Stores Redstone Flux.
 tab.thermalexpansion.cell.1=Hold Shift or Ctrl to fine tune energy control.
 
 tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
+tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a Bouwschema.
+tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Bouwschema to craft the saved recipe directly.
 tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
 tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
@@ -345,7 +345,7 @@ tab.thermalexpansion.machine.extruder.2=Minecraft physics is fun!
 tab.thermalexpansion.machine.accumulator.0=Extracts water from its surroundings.
 tab.thermalexpansion.machine.accumulator.1=Place in a pool of water to speed this up.
 tab.thermalexpansion.machine.accumulator.2=Don't drown.
-tab.thermalexpansion.machine.assembler.0=Crafts recipes saved in Schematics.
+tab.thermalexpansion.machine.assembler.0=Crafts recipes saved in Bouwschemas.
 tab.thermalexpansion.machine.assembler.1=Uses 20 Redstone Flux per item.
 tab.thermalexpansion.machine.assembler.2=No, it won't craft that.
 tab.thermalexpansion.machine.charger.0=Infuse energy into compatible items.
