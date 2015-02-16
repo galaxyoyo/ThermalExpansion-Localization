@@ -223,84 +223,84 @@ item.thermalexpansion.augment.generalAutoTransfer.name=Integrated Servo Mechanis
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrated Redstone Circuit
 
-item.thermalexpansion.augment.machineSecondary0.name=Secondary Sieve
-item.thermalexpansion.augment.machineSecondary1.name=Stabilized Frame
-item.thermalexpansion.augment.machineSecondary2.name=GyroServo Feedback
-item.thermalexpansion.augment.machineSpeed0.name=Secondary Reception Coil
-item.thermalexpansion.augment.machineSpeed1.name=Overclocked Modular Gearbox
-item.thermalexpansion.augment.machineSpeed2.name=Space-Time Flux Unifier
+item.thermalexpansion.augment.machineSecondary0.name=Secundaire Zeef
+item.thermalexpansion.augment.machineSecondary1.name=Gestabiliseerd Frame
+item.thermalexpansion.augment.machineSecondary2.name=GyroServo Terugkoppeling
+item.thermalexpansion.augment.machineSpeed0.name=Secundaire Ontvangst Spoel
+item.thermalexpansion.augment.machineSpeed1.name=Overgeclockte Uitbreibare Tandwieldoos
+item.thermalexpansion.augment.machineSpeed2.name=Ruimte-Tijd Flux Vereniger
 
-item.thermalexpansion.capacitor.creative.name=Creative Flux Capacitor
-item.thermalexpansion.capacitor.potato.name=Tuberous Flux Capacitor
-item.thermalexpansion.capacitor.basic.name=Leadstone Flux Capacitor
-item.thermalexpansion.capacitor.hardened.name=Hardened Flux Capacitor
-item.thermalexpansion.capacitor.reinforced.name=Redstone Flux Capacitor
-item.thermalexpansion.capacitor.resonant.name=Resonant Flux Capacitor
+item.thermalexpansion.capacitor.creative.name=Creative Flux Condensator
+item.thermalexpansion.capacitor.potato.name=Tuberoze Flux Condensator
+item.thermalexpansion.capacitor.basic.name=Loodsteen Flux Condensator
+item.thermalexpansion.capacitor.hardened.name=Verharde Flux Condensator
+item.thermalexpansion.capacitor.reinforced.name=Redstone Flux Condensator
+item.thermalexpansion.capacitor.resonant.name=Resonerende Flux Condensator
 
 item.thermalexpansion.diagram.schematic.name=Bouwschema
 item.thermalexpansion.diagram.redprint.name=Redprint
 
 item.thermalexpansion.florb.florb.name=Florb
-item.thermalexpansion.florb.florbMagmatic.name=Magmatic Florb
+item.thermalexpansion.florb.florbMagmatic.name=Magmatische Florb
 
-item.thermalexpansion.material.pneumaticServo.name=Pneumatic Servo
-item.thermalexpansion.material.powerCoilGold.name=Redstone Reception Coil
-item.thermalexpansion.material.powerCoilSilver.name=Redstone Transmission Coil
-item.thermalexpansion.material.powerCoilElectrum.name=Redstone Conductance Coil
-item.thermalexpansion.material.lock.name=Signalum Security Lock
+item.thermalexpansion.material.pneumaticServo.name=Luchtdruk Servo
+item.thermalexpansion.material.powerCoilGold.name=Redstone Ontvangst Spoel
+item.thermalexpansion.material.powerCoilSilver.name=Redstone Transmissie Spoel
+item.thermalexpansion.material.powerCoilElectrum.name=Redstone Geleiding Spoel
+item.thermalexpansion.material.lock.name=Signalum Beveiligings Slot
 
-item.thermalexpansion.material.dustWood.name=Sawdust
-item.thermalexpansion.material.dustWoodCompressed.name=Compressed Sawdust
-item.thermalexpansion.material.slag.name=Slag
-item.thermalexpansion.material.slagRich.name=Rich Slag
-item.thermalexpansion.material.fertilizer.name=Phyto-Gro
-item.thermalexpansion.material.fertilizerRich.name=Rich Phyto-Gro
+item.thermalexpansion.material.dustWood.name=Zaagsel
+item.thermalexpansion.material.dustWoodCompressed.name=Samengeperst zaagsel
+item.thermalexpansion.material.slag.name=Metaalschuim
+item.thermalexpansion.material.slagRich.name=Rijk Metaalschuim
+item.thermalexpansion.material.fertilizer.name=Fyto-Gro
+item.thermalexpansion.material.fertilizerRich.name=Rijke Fyto-Gro
 
-item.thermalexpansion.satchel.creative.name=Creative Satchel
-item.thermalexpansion.satchel.basic.name=Satchel
-item.thermalexpansion.satchel.hardened.name=Hardened Satchel
-item.thermalexpansion.satchel.reinforced.name=Reinforced Satchel
-item.thermalexpansion.satchel.resonant.name=Resonant Satchel
+item.thermalexpansion.satchel.creative.name=Creative Tas
+item.thermalexpansion.satchel.basic.name=Tas
+item.thermalexpansion.satchel.hardened.name=Verharde Tas
+item.thermalexpansion.satchel.reinforced.name=Versterkte Tas
+item.thermalexpansion.satchel.resonant.name=Resonerende Tas
 
-item.thermalexpansion.tool.invarBattleWrench.name=Invar BattleWrench
-item.thermalexpansion.tool.invarSword.name=Invar Sword
-item.thermalexpansion.tool.invarShovel.name=Invar Shovel
-item.thermalexpansion.tool.invarPickaxe.name=Invar Pickaxe
-item.thermalexpansion.tool.invarAxe.name=Invar Axe
-item.thermalexpansion.tool.invarHoe.name=Invar Hoe
-item.thermalexpansion.tool.invarShears.name=Invar Shears
-item.thermalexpansion.tool.invarFishingRod.name=Invar Reinforced Fishing Rod
-item.thermalexpansion.tool.invarSickle.name=Invar Sickle
-item.thermalexpansion.tool.invarBow.name=Invar Reinforced Bow
+item.thermalexpansion.tool.invarBattleWrench.name=Invar GevechtsMoersleutel
+item.thermalexpansion.tool.invarSword.name=Invar Zwaard
+item.thermalexpansion.tool.invarShovel.name=Invar Schep
+item.thermalexpansion.tool.invarPickaxe.name=Invar Pikhouweel
+item.thermalexpansion.tool.invarAxe.name=Invar Bijl
+item.thermalexpansion.tool.invarHoe.name=Invar Schoffel
+item.thermalexpansion.tool.invarShears.name=Invar Schaar
+item.thermalexpansion.tool.invarFishingRod.name=Invar Versterkte Vishengel
+item.thermalexpansion.tool.invarSickle.name=Invar Sikkel
+item.thermalexpansion.tool.invarBow.name=Invar Versterkte Boog
 
-item.thermalexpansion.tool.wrench.name=Crescent Hammer
+item.thermalexpansion.tool.wrench.name=Maansikkel Hamer
 item.thermalexpansion.tool.multimeter.name=Multimeter
 item.thermalexpansion.tool.debugger.name=Debugger
-item.thermalexpansion.tool.igniter.name=Flux Igniter
+item.thermalexpansion.tool.igniter.name=Flux Ontsteker
 
-itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
-itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
+itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blokken
+itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Gereedschap
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
 itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
 
 #NEI Recipe
-recipe.thermalexpansion.upgrade=Upgrade Crafting
+recipe.thermalexpansion.upgrade=Verbetering Vervaardiging
 
 #Info Tabs
-tab.thermalexpansion.cell.0=Stores Redstone Flux.
-tab.thermalexpansion.cell.1=Hold Shift or Ctrl to fine tune energy control.
+tab.thermalexpansion.cell.0=Slaat Redstone Flux op.
+tab.thermalexpansion.cell.1=Houd Shift of Ctrl in om de energie controle te verfijnen.
 
-tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a Bouwschema.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Bouwschema to craft the saved recipe directly.
+tab.thermalexpansion.device.workbench.0=Vervaardigt dingen!
+tab.thermalexpansion.device.workbench.1=Een vervaardigings recept kan vanuit een Bouwschema worden ingelezen.
+tab.thermalexpansion.device.workbench.2=Shift + Rechts Klik op een Bouwschema om het opgeslagen recept direct te vervaardigen.
 tab.thermalexpansion.device.lexicon.0=
-tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
-tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
-tab.thermalexpansion.device.activator.2=Deceptively versatile!
-tab.thermalexpansion.device.breaker.0=Breaks all the things!
-tab.thermalexpansion.device.breaker.1=Keep face away from front of device.
-tab.thermalexpansion.device.nullifier.0=Sends all the things to /dev/null!
-tab.thermalexpansion.device.nullifier.1=It is a horrible place, even fluid cannot escape.
+tab.thermalexpansion.device.activator.0=Het snijd! Het hakt fijn! Het giet dingen, Het gooit dingen!
+tab.thermalexpansion.device.activator.1=Misschien is het willekeurig, misschien ook niet. Misschien is het gluiperig, mischien niet.
+tab.thermalexpansion.device.activator.2=Bedriegelijk veelzijdig!
+tab.thermalexpansion.device.breaker.0=Breekt alle dingen!
+tab.thermalexpansion.device.breaker.1=Houd je gezicht er weg van.
+tab.thermalexpansion.device.nullifier.0=Stuurt alles naar /dev/null!
+tab.thermalexpansion.device.nullifier.1=Het is een vreselijke plek, zelfs vloeistoffen kunnen er niet uit ontsnapppen.
 
 tab.thermalexpansion.dynamo.0=Generation rate varies according to energy demand.
 tab.thermalexpansion.dynamo.steam.0=Generates Redstone Flux using Steam.
