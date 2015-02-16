@@ -27,8 +27,8 @@ achievement.thermalexpansion.assembler=A Vicious Cycle
 achievement.thermalexpansion.assembler.desc=No, it will not craft that.
 achievement.thermalexpansion.charger=What The Flux?
 achievement.thermalexpansion.charger.desc=Flux knows no bounds. So watch your hands.
-achievement.thermalexpansion.insolator=
-achievement.thermalexpansion.insolator.desc=
+achievement.thermalexpansion.insolator=Sun in a Box!
+achievement.thermalexpansion.insolator.desc=Definitely not organic.
 
 achievement.thermalexpansion.wrench=Looks Like a Nail!
 achievement.thermalexpansion.wrench.desc=Any tool is a hammer if you *really* need one.
@@ -65,19 +65,6 @@ chat.thermalexpansion.light.2=Mode: Scaled (Proportional)
 chat.thermalexpansion.light.3=Mode: Scaled (Inverse)
 chat.thermalexpansion.light.4=Mode: Always Off
 chat.thermalexpansion.light.5=Mode: Always On
-
-config.thermalexpansion.block=Blocks
-config.thermalexpansion.block.feature=Enable/Disable
-config.thermalexpansion.block.tweak=Behavior
-config.thermalexpansion.item=Items
-config.thermalexpansion.item.feature=Enable/Disable
-config.thermalexpansion.plugins=Plugins
-config.thermalexpansion.plugins.tweak=Options
-config.thermalexpansion.security=Security
-config.thermalexpansion.tweak=Tweaks
-config.thermalexpansion.tweak.crafting=Crafting Handlers
-config.thermalexpansion.tweak.recipe=Recipes
-config.thermalexpansion.tweak.sound=Sound
 
 #Cell
 info.thermalexpansion.decRecv=Decrease RF Input by
@@ -327,7 +314,7 @@ tab.thermalexpansion.dynamo.enervation.0=Extracts Redstone Flux directly from na
 tab.thermalexpansion.ender.tesseract.0=Use these to instantly transport things across vast distances or across dimensions.
 tab.thermalexpansion.ender.tesseract.1=Tune the Ender Frequency to determine links.
 
-tab.thermalexpansion.light.0=
+tab.thermalexpansion.light.0=Highly configurable light, redstone sensitive.
 tab.thermalexpansion.light.1=Color and mode may be adjusted with sliders.
 tab.thermalexpansion.light.2=Replace the darkness with awesomeness!
 
