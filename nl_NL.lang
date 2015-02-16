@@ -1,9 +1,9 @@
-achievement.thermalexpansion.base=Welkom bij Thermal Expansion!
+﻿achievement.thermalexpansion.base=Welkom bij Thermal Expansion!
 achievement.thermalexpansion.base.desc=En zo begint het.
 achievement.thermalexpansion.machineFrame=Framed!
 achievement.thermalexpansion.machineFrame.desc=Je zal waarschijnlijk veel van deze gaan maken.
 
-achievement.thermalexpansion.furnace=Coal is For Chumps
+achievement.thermalexpansion.furnace=Kolen zijn Voor Sukkels
 achievement.thermalexpansion.furnace.desc=Smelt dingen in stijl!
 achievement.thermalexpansion.pulverizer=MACHINALE VERPLETTERING!
 achievement.thermalexpansion.pulverizer.desc=Nietige erts.
@@ -178,46 +178,46 @@ info.thermalexpansion.dynamo.enervation=Ontrekt flux vanuit diverse objecten.
 info.thermalexpansion.machine.furnace=Smelt items.
 info.thermalexpansion.machine.pulverizer=Verpulverd items.
 info.thermalexpansion.machine.sawmill=Voorziet van extra hout.
-info.thermalexpansion.machine.smelter=Smelts alloys and metals. Two inputs.
-info.thermalexpansion.machine.crucible=Melts items into fluids.
-info.thermalexpansion.machine.transposer=Manipulates fluids and fluid containers.
-info.thermalexpansion.machine.precipitator=Freezes fluids into solids.
-info.thermalexpansion.machine.extruder=Mixes hot and cold fluids.
-info.thermalexpansion.machine.accumulator=Pulls water from surroundings.
-info.thermalexpansion.machine.assembler=Crafts items.
-info.thermalexpansion.machine.charger=Charges items with RF.
-info.thermalexpansion.machine.insolator=Infuses plants with 'sun' and RF.
+info.thermalexpansion.machine.smelter=Smelt legeringen en metalen. Twee invoer slots.
+info.thermalexpansion.machine.crucible=Smelt items tot vloeistoffen.
+info.thermalexpansion.machine.transposer=Manipuleert vloeistoffen en vloeistof houders.
+info.thermalexpansion.machine.precipitator=Bevriest vloeistoffen tot vaste stoffen.
+info.thermalexpansion.machine.extruder=Mixt hete en koude vloeistoffen.
+info.thermalexpansion.machine.accumulator=Ontrekt water vanuit de omgeving.
+info.thermalexpansion.machine.assembler=Vervaardigt items.
+info.thermalexpansion.machine.charger=Laad items op met RF.
+info.thermalexpansion.machine.insolator=Doordrenkt planten met 'zon' en RF.
 
-info.thermalexpansion.florb.0=Holds 1000 mB of most fluids.
-info.thermalexpansion.florb.1=Holds 1000 mB of most hot fluids.
-info.thermalexpansion.florb.2=Fill with a
-info.thermalexpansion.florb.3=Yes, you can throw it.
-info.thermalexpansion.florb.4=This fluid is lighter than air.
-info.thermalexpansion.florb.5=The Florb will travel further.
+info.thermalexpansion.florb.0=Bevat 1000 mB van de meeste vloeistoffen.
+info.thermalexpansion.florb.1=Bevat 1000 mB van de meeste hete vloeistoffen.
+info.thermalexpansion.florb.2=Vul met een
+info.thermalexpansion.florb.3=Ja, Je kan het gooien.
+info.thermalexpansion.florb.4=Deze vloeistof is lichter dan lucht.
+info.thermalexpansion.florb.5=De Florb zal verder komen.
 
-info.thermalexpansion.tool.battleWrench=90% hammer, 10% wrench.
-info.thermalexpansion.tool.wrench.0=Sure, it's a wrench.
-info.thermalexpansion.tool.wrench.1=But any tool is a hammer
-info.thermalexpansion.tool.wrench.2=if you need it to be one.
+info.thermalexpansion.tool.battleWrench=90% hamer, 10% moersleutel.
+info.thermalexpansion.tool.wrench.0=Zeker, het is een moersleutel.
+info.thermalexpansion.tool.wrench.1=Maar al het gereedschap kan een hamer zijn
+info.thermalexpansion.tool.wrench.2=als dat nodig is.
 
-info.thermalexpansion.securable=Securable with a lock.
-info.thermalexpansion.storage.enchant=Can be enchanted to hold more items.
-info.thermalexpansion.wrench=Wrench while sneaking to dismantle.
+info.thermalexpansion.securable=Beveiligbaar met een slot.
+info.thermalexpansion.storage.enchant=Kan betoverd worden om meer items te bevatten.
+info.thermalexpansion.wrench=Moersleutel tijdens het sluipen om te demonteren.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=Invar Helmet
-item.thermalexpansion.armor.invarPlate.name=Invar Chestplate
-item.thermalexpansion.armor.invarLegs.name=Invar Leggings
-item.thermalexpansion.armor.invarBoots.name=Invar Boots
+item.thermalexpansion.armor.invarHelmet.name=Invar Helm
+item.thermalexpansion.armor.invarPlate.name=Invar Borstplaat
+item.thermalexpansion.armor.invarLegs.name=Invar Broek
+item.thermalexpansion.armor.invarBoots.name=Invar Schoenen
 
-item.thermalexpansion.augment.dynamoCoilDuct.name=Transmission Coil Ducting
-item.thermalexpansion.augment.dynamoEfficiency0.name=Secondary Gearbox
-item.thermalexpansion.augment.dynamoEfficiency1.name=Flux Linkage Optimization
-item.thermalexpansion.augment.dynamoEfficiency2.name=CryoCoil Regulator
-item.thermalexpansion.augment.dynamoOutput0.name=Secondary Transmission Coil
-item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulation Booster
-item.thermalexpansion.augment.dynamoOutput2.name=CryoCoil Flux Amplifier
-item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
+item.thermalexpansion.augment.dynamoCoilDuct.name=Transmissie Spoel Kanalisering
+item.thermalexpansion.augment.dynamoEfficiency0.name=Secundaire tandwieldoos
+item.thermalexpansion.augment.dynamoEfficiency1.name=Flux Verbinding Optimalisatie
+item.thermalexpansion.augment.dynamoEfficiency2.name=BevrorenSpoel Regulator
+item.thermalexpansion.augment.dynamoOutput0.name=Secundaire Transmissie Spoel
+item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulatie Versterker
+item.thermalexpansion.augment.dynamoOutput2.name=BevrorenSpoel Flux Versterker
+item.thermalexpansion.augment.dynamoThrottle.name=Opwekveld begrenzer
 
 item.thermalexpansion.augment.generalAutoTransfer.name=Integrated Servo Mechanism
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
