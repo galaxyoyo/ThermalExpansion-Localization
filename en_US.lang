@@ -205,11 +205,6 @@ info.thermalexpansion.storage.enchant=Can be enchanted to hold more items.
 info.thermalexpansion.wrench=Wrench while sneaking to dismantle.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=Invar Helmet
-item.thermalexpansion.armor.invarPlate.name=Invar Chestplate
-item.thermalexpansion.armor.invarLegs.name=Invar Leggings
-item.thermalexpansion.armor.invarBoots.name=Invar Boots
-
 item.thermalexpansion.augment.dynamoCoilDuct.name=Transmission Coil Ducting
 item.thermalexpansion.augment.dynamoEfficiency0.name=Secondary Gearbox
 item.thermalexpansion.augment.dynamoEfficiency1.name=Flux Linkage Optimization
@@ -263,15 +258,6 @@ item.thermalexpansion.satchel.reinforced.name=Reinforced Satchel
 item.thermalexpansion.satchel.resonant.name=Resonant Satchel
 
 item.thermalexpansion.tool.invarBattleWrench.name=Invar BattleWrench
-item.thermalexpansion.tool.invarSword.name=Invar Sword
-item.thermalexpansion.tool.invarShovel.name=Invar Shovel
-item.thermalexpansion.tool.invarPickaxe.name=Invar Pickaxe
-item.thermalexpansion.tool.invarAxe.name=Invar Axe
-item.thermalexpansion.tool.invarHoe.name=Invar Hoe
-item.thermalexpansion.tool.invarShears.name=Invar Shears
-item.thermalexpansion.tool.invarFishingRod.name=Invar Reinforced Fishing Rod
-item.thermalexpansion.tool.invarSickle.name=Invar Sickle
-item.thermalexpansion.tool.invarBow.name=Invar Reinforced Bow
 
 item.thermalexpansion.tool.wrench.name=Crescent Hammer
 item.thermalexpansion.tool.multimeter.name=Multimeter
@@ -293,20 +279,19 @@ tab.thermalexpansion.cell.1=Hold Shift or Ctrl to fine tune energy control.
 tab.thermalexpansion.device.workbench.0=Crafts things!
 tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
 tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
-tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
 tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
 tab.thermalexpansion.device.activator.2=Deceptively versatile!
 tab.thermalexpansion.device.breaker.0=Breaks all the things!
 tab.thermalexpansion.device.breaker.1=Keep face away from front of device.
 tab.thermalexpansion.device.nullifier.0=Sends all the things to /dev/null!
-tab.thermalexpansion.device.nullifier.1=It is a horrible place, even fluid cannot escape.
+tab.thermalexpansion.device.nullifier.1=It is a horrible place; even fluids cannot escape.
 
 tab.thermalexpansion.dynamo.0=Generation rate varies according to energy demand.
 tab.thermalexpansion.dynamo.steam.0=Generates Redstone Flux using Steam.
 tab.thermalexpansion.dynamo.steam.1=Solid Fuels and Water can be used to generate Steam.
 tab.thermalexpansion.dynamo.magmatic.0=Generates Redstone Flux using extremely hot fluids.
-tab.thermalexpansion.dynamo.compression.0=Generates Redstone Flux using fluid fuels.
+tab.thermalexpansion.dynamo.compression.0=Generates Redstone Flux using fluid fuels and coolants.
 tab.thermalexpansion.dynamo.reactant.0=Generates Redstone Flux using alchemical reactions.
 tab.thermalexpansion.dynamo.reactant.1=A solid reactant and a fluid fuel must be provided.
 tab.thermalexpansion.dynamo.enervation.0=Extracts Redstone Flux directly from natural sources or from objects which store it.
@@ -318,7 +303,7 @@ tab.thermalexpansion.light.0=Highly configurable light, redstone sensitive.
 tab.thermalexpansion.light.1=Color and mode may be adjusted with sliders.
 tab.thermalexpansion.light.2=Replace the darkness with awesomeness!
 
-tab.thermalexpansion.machine.furnace.0=Smelt things using Redstone Flux.
+tab.thermalexpansion.machine.furnace.0=Smelts things using Redstone Flux.
 tab.thermalexpansion.machine.furnace.1=Uses very little energy to cook food.
 tab.thermalexpansion.machine.furnace.2=Om nom nom.
 tab.thermalexpansion.machine.pulverizer.0=Smashes things into other things.
@@ -330,28 +315,28 @@ tab.thermalexpansion.machine.sawmill.2=Watch your hands.
 tab.thermalexpansion.machine.smelter.0=Smelts metals and things that require high temperatures.
 tab.thermalexpansion.machine.smelter.1=Useful for processing ores and building advanced devices.
 tab.thermalexpansion.machine.smelter.2=Will absolutely not cook food.
-tab.thermalexpansion.machine.crucible.0=Turns solid material into fluids!
+tab.thermalexpansion.machine.crucible.0=Turns solid materials into fluids!
 tab.thermalexpansion.machine.crucible.1=Very useful for building advanced devices.
 tab.thermalexpansion.machine.crucible.2=Keep away from small children and pets.
 tab.thermalexpansion.machine.transposer.0=Fills or empties things that hold fluids.
-tab.thermalexpansion.machine.transposer.1=Press the button to change between Fill and Extract.
+tab.thermalexpansion.machine.transposer.1=Click the button to change between Fill and Extract modes.
 tab.thermalexpansion.machine.transposer.2=Typically reversible.
 tab.thermalexpansion.machine.precipitator.0=Uses Redstone Flux to freeze various fluids!
 tab.thermalexpansion.machine.precipitator.1=The selected item is what you'll get, if there is enough fluid in the tank.
 tab.thermalexpansion.machine.precipitator.2=Have a snowball fight.
 tab.thermalexpansion.machine.extruder.0=Mixes water and lava to make different types of igneous rock.
 tab.thermalexpansion.machine.extruder.1=The selected item is what you'll get, if there is enough water and lava in the tanks.
-tab.thermalexpansion.machine.extruder.2=Minecraft physics is fun!
+tab.thermalexpansion.machine.extruder.2=Minecraft physics are fun!
 tab.thermalexpansion.machine.accumulator.0=Extracts water from its surroundings.
 tab.thermalexpansion.machine.accumulator.1=Place in a pool of water to speed this up.
 tab.thermalexpansion.machine.accumulator.2=Don't drown.
 tab.thermalexpansion.machine.assembler.0=Crafts recipes saved in Schematics.
 tab.thermalexpansion.machine.assembler.1=Uses 20 Redstone Flux per item.
 tab.thermalexpansion.machine.assembler.2=No, it won't craft that.
-tab.thermalexpansion.machine.charger.0=Infuse energy into compatible items.
+tab.thermalexpansion.machine.charger.0=Infuses energy into compatible items.
 tab.thermalexpansion.machine.charger.1=Charge rate may be limited by the item.
 tab.thermalexpansion.machine.charger.2=Feel the hum.
-tab.thermalexpansion.machine.insolator.0=Infuse nutrients and light into plants using RF.
+tab.thermalexpansion.machine.insolator.0=Infuses nutrients and light into plants using RF.
 tab.thermalexpansion.machine.insolator.1=Not exactly 'organic' farming.
 tab.thermalexpansion.machine.insolator.2=Gloriously incandescent!
 
@@ -364,16 +349,16 @@ tab.thermalexpansion.plate.translocate.1=Distance may be configured.
 
 tab.thermalexpansion.satchel.0=It's a satchel. Will not store some objects.
 tab.thermalexpansion.satchel.1=No refunds.
-tab.thermalexpansion.satchel.creative=Only holds one thing...kind of.
+tab.thermalexpansion.satchel.creative=Only holds one thing... kind of.
 
-tab.thermalexpansion.storage.enchant=Can be enchanted to hold more items!
+tab.thermalexpansion.storage.enchant=Can be enchanted to hold more things!
 
 tab.thermalexpansion.strongbox.0=It's a box! It stores things. Well, most things.
 tab.thermalexpansion.strongbox.creative=Holds unlimited amounts of a single thing!
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Creative Cache
-tile.thermalexpansion.cache.basic.name=Basic Cache
+tile.thermalexpansion.cache.basic.name=Cache
 tile.thermalexpansion.cache.hardened.name=Hardened Cache
 tile.thermalexpansion.cache.reinforced.name=Reinforced Cache
 tile.thermalexpansion.cache.resonant.name=Resonant Cache
@@ -386,7 +371,6 @@ tile.thermalexpansion.cell.reinforced.name=Redstone Energy Cell
 tile.thermalexpansion.cell.resonant.name=Resonant Energy Cell
 
 tile.thermalexpansion.device.workbench.name=Machinist's Workbench
-tile.thermalexpansion.device.lexicon.name=Forge Lexicon
 tile.thermalexpansion.device.activator.name=Autonomous Activator
 tile.thermalexpansion.device.breaker.name=Terrain Smasher
 tile.thermalexpansion.device.nullifier.name=Nullifier
@@ -434,7 +418,7 @@ tile.thermalexpansion.machine.assembler.name=Cyclic Assembler
 tile.thermalexpansion.machine.charger.name=Energetic Infuser
 tile.thermalexpansion.machine.insolator.name=Phytogenic Insolator
 
-tile.thermalexpansion.plate.frame.name=Plate
+tile.thermalexpansion.plate.frame.name=Plate Frame
 tile.thermalexpansion.plate.impulse.name=Impulse Plate
 tile.thermalexpansion.plate.signal.name=Redstone Plate
 tile.thermalexpansion.plate.translocate.name=Translocation Plate
