@@ -257,6 +257,8 @@ item.thermalexpansion.satchel.hardened.name=Hardened Satchel
 item.thermalexpansion.satchel.reinforced.name=Reinforced Satchel
 item.thermalexpansion.satchel.resonant.name=Resonant Satchel
 
+item.thermalexpansion.tool.invarBattleWrench.name=Invar BattleWrench
+
 item.thermalexpansion.tool.wrench.name=Crescent Hammer
 item.thermalexpansion.tool.multimeter.name=Multimeter
 item.thermalexpansion.tool.debugger.name=Debugger
