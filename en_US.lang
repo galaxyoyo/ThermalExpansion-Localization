@@ -103,10 +103,18 @@ info.thermalexpansion.modeRecv=Receive Only
 info.thermalexpansion.modeSend=Send Only
 info.thermalexpansion.modeSendRecv=Send/Receive
 
+#Smelter
+info.thermalexpansion.toggleSmelterLock=Lock Flux Slot
+info.thermalexpansion.toggleSmelterUnlock=Unlock Flux Slot
+
 #Transposer
 info.thermalexpansion.toggleEmpty=Toggle: Empty
 info.thermalexpansion.toggleFill=Toggle: Fill
 info.thermalexpansion.toggleWait=Toggled
+
+#Insolator
+info.thermalexpansion.toggleInsolatorLock=Lock Fertilizer Slot
+info.thermalexpansion.toggleInsolatorUnlock=Unlock Fertilizer Slot
 
 #Plates
 info.thermalexpansion.distance=Distance
