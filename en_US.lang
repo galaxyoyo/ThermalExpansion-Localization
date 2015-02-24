@@ -277,8 +277,10 @@ itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
 itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
 
-#NEI Recipe
+#NEI Recipes
+recipe.thermalexpansion.machine=Machine Crafting
 recipe.thermalexpansion.upgrade=Upgrade Crafting
+recipe.thermalexpansion.secure=Security Crafting
 
 #Info Tabs
 tab.thermalexpansion.cell.0=Stores Redstone Flux.
