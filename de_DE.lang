@@ -347,7 +347,7 @@ tab.thermalexpansion.strongbox.creative=Kann unendlich viele Items einer Sorte e
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Kreativer Cache
-tile.thermalexpansion.cache.basic.name=Basis-Cache
+tile.thermalexpansion.cache.basic.name=Cache
 tile.thermalexpansion.cache.hardened.name=Gehärteter Cache
 tile.thermalexpansion.cache.reinforced.name=Verstärkter Cache
 tile.thermalexpansion.cache.resonant.name=Resonanter Cache

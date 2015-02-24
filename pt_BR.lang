@@ -348,7 +348,7 @@ tab.thermalexpansion.strongbox.creative=Guarda uma quantidade ilimitade de uma �
 
 #Blocos
 tile.thermalexpansion.cache.creative.name=Estoque Creativo
-tile.thermalexpansion.cache.basic.name=Estoque Básico
+tile.thermalexpansion.cache.basic.name=Estoque
 tile.thermalexpansion.cache.hardened.name=Estoque Endurecido
 tile.thermalexpansion.cache.reinforced.name=Estoque Reforçado
 tile.thermalexpansion.cache.resonant.name=Estoque Ressonante

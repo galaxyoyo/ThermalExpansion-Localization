@@ -349,7 +349,7 @@ tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보�
 
 #블럭(Blocks)
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
-tile.thermalexpansion.cache.basic.name=기본 캐시
+tile.thermalexpansion.cache.basic.name=캐시
 tile.thermalexpansion.cache.hardened.name=경화 캐시
 tile.thermalexpansion.cache.reinforced.name=강화 캐시
 tile.thermalexpansion.cache.resonant.name=공진 캐시

@@ -373,7 +373,7 @@ tab.thermalexpansion.strongbox.creative=Bevat een oneindige hoeveelheid van éé
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Creative Cache
-tile.thermalexpansion.cache.basic.name=Basis Cache
+tile.thermalexpansion.cache.basic.name=Cache
 tile.thermalexpansion.cache.hardened.name=Verharde Cache
 tile.thermalexpansion.cache.reinforced.name=Versterkte Cache
 tile.thermalexpansion.cache.resonant.name=Resonerende Cache

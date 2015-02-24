@@ -347,7 +347,7 @@ tab.thermalexpansion.strongbox.creative=Tiene una quantità illimitata di un tip
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Ripostiglio creativa
-tile.thermalexpansion.cache.basic.name=Ripostiglio base
+tile.thermalexpansion.cache.basic.name=Ripostiglio
 tile.thermalexpansion.cache.hardened.name=Ripostiglio indurito
 tile.thermalexpansion.cache.reinforced.name=Ripostiglio rinforzato
 tile.thermalexpansion.cache.resonant.name=Ripostiglio risonante

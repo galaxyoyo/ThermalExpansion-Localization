@@ -373,7 +373,7 @@ tab.thermalexpansion.strongbox.creative=Вмещает неограниченн�
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Творческий тайник
-tile.thermalexpansion.cache.basic.name=Основной тайник
+tile.thermalexpansion.cache.basic.name=тайник
 tile.thermalexpansion.cache.hardened.name=Усиленный тайник
 tile.thermalexpansion.cache.reinforced.name=Укреплённый тайник
 tile.thermalexpansion.cache.resonant.name=Резонирующий тайник
