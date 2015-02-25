@@ -139,7 +139,11 @@ info.thermalexpansion.augment.levels.1=Highest Level Augment is used.
 info.thermalexpansion.augment.machine.0=Requires a
 info.thermalexpansion.augment.machine.1=Machine
 info.thermalexpansion.augment.secondaryChance=Secondary Chance
+info.thermalexpansion.augment.perOperation=Per Operation
+info.thermalexpansion.augment.production=Production
 info.thermalexpansion.augment.speed=Speed
+info.thermalexpansion.augment.upTo=Up to
+info.thermalexpansion.augment.waterConsumed=Water Consumed
 
 info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Side Accessibility
 info.thermalexpansion.augment.dynamoCoilDuct.0=Allows insertion and extraction of items and fluids through the coil of a dynamo.
@@ -158,6 +162,7 @@ info.thermalexpansion.augment.generalRedstoneControl.0=Allows for redstone contr
 
 info.thermalexpansion.augment.machineSecondary=Machine: Secondary Output
 info.thermalexpansion.augment.machineSpeed=Machine: Processing Speed
+info.thermalexpansion.augment.machineExtruderBoost=Igneous Extruder: Batch Size
 
 info.thermalexpansion.capacitor.0=Activate to charge held items.
 info.thermalexpansion.capacitor.1=Use while sneaking to activate.
@@ -240,6 +245,10 @@ item.thermalexpansion.augment.machineSecondary2.name=GyroServo Feedback
 item.thermalexpansion.augment.machineSpeed0.name=Secondary Reception Coil
 item.thermalexpansion.augment.machineSpeed1.name=Overclocked Modular Gearbox
 item.thermalexpansion.augment.machineSpeed2.name=Space-Time Flux Unifier
+
+item.thermalexpansion.augment.machineExtruderBoost0.name=Accelerated Extrusion
+item.thermalexpansion.augment.machineExtruderBoost1.name=Igneous Catalyst
+item.thermalexpansion.augment.machineExtruderBoost2.name=Pyroclastic Generation
 
 item.thermalexpansion.capacitor.creative.name=Creative Flux Capacitor
 item.thermalexpansion.capacitor.potato.name=Tuberous Flux Capacitor
