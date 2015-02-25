@@ -183,6 +183,9 @@ info.thermalexpansion.dynamo.compression=Requires fluid fuel and coolant.
 info.thermalexpansion.dynamo.reactant=Requires fluid fuel and solid reactant.
 info.thermalexpansion.dynamo.enervation=Extracts flux from various objects.
 
+info.thermalexpansion.light.0=Emits light based on redstone signal.
+info.thermalexpansion.light.1=Can be almost any color you wish.
+
 info.thermalexpansion.machine.furnace=Smelts items.
 info.thermalexpansion.machine.pulverizer=Crushes items.
 info.thermalexpansion.machine.sawmill=Provides additional lumber.
@@ -195,6 +198,10 @@ info.thermalexpansion.machine.accumulator=Pulls water from surroundings.
 info.thermalexpansion.machine.assembler=Crafts items.
 info.thermalexpansion.machine.charger=Charges items with RF.
 info.thermalexpansion.machine.insolator=Infuses plants with 'sun' and RF.
+
+info.thermalexpansion.plate.signal=Emits a redstone signal.
+info.thermalexpansion.plate.impulse=Imparts motion.
+info.thermalexpansion.plate.translocate=Teleports things.
 
 info.thermalexpansion.florb.0=Holds 1000 mB of most fluids.
 info.thermalexpansion.florb.1=Holds 1000 mB of most hot fluids.
@@ -357,7 +364,7 @@ tab.thermalexpansion.plate.signal.0=Emits a remote redstone signal on contact.
 tab.thermalexpansion.plate.signal.1=Signal parameters may be configured.
 tab.thermalexpansion.plate.impulse.0=Imparts momentum on contact.
 tab.thermalexpansion.plate.impulse.1=Force and angle may be configured.
-tab.thermalexpansion.plate.translocate.0=Translocates objects and entities on contact.
+tab.thermalexpansion.plate.translocate.0=Teleport objects and entities on contact.
 tab.thermalexpansion.plate.translocate.1=Distance may be configured.
 
 tab.thermalexpansion.satchel.0=It's a satchel. Will not store some objects.
