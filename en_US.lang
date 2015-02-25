@@ -199,9 +199,9 @@ info.thermalexpansion.machine.assembler=Crafts items.
 info.thermalexpansion.machine.charger=Charges items with RF.
 info.thermalexpansion.machine.insolator=Infuses plants with 'sun' and RF.
 
-info.thermalexpansion.plate.signal=Emits a redstone signal.
-info.thermalexpansion.plate.impulse=Imparts motion.
-info.thermalexpansion.plate.translocate=Teleports things.
+info.thermalexpansion.plate.signal=Emits a redstone signal on contact.
+info.thermalexpansion.plate.impulse=Imparts motion to things on contact.
+info.thermalexpansion.plate.translocate=Teleports things on contact.
 
 info.thermalexpansion.florb.0=Holds 1000 mB of most fluids.
 info.thermalexpansion.florb.1=Holds 1000 mB of most hot fluids.
