@@ -368,7 +368,7 @@ tab.thermalexpansion.plate.impulse.1=力量和角度可被設定.
 tab.thermalexpansion.plate.translocate.0=當觸發時傳送物件與實體.
 tab.thermalexpansion.plate.translocate.1=距離可被設定.
 
-tab.thermalexpansion.satchel.0=這是個小背包.無法儲存多種物品.
+tab.thermalexpansion.satchel.0=這是個小背包.無法儲存某些物品.
 tab.thermalexpansion.satchel.1=無法退還.
 tab.thermalexpansion.satchel.creative=只能儲存一...種物品.
 
