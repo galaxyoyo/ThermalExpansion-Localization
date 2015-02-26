@@ -1,49 +1,48 @@
 #zh_TW
 
-
 achievement.thermalexpansion.base=歡迎使用精煉機械!
 achievement.thermalexpansion.base.desc=就這樣讓我們開始吧.
 achievement.thermalexpansion.machineFrame=框架!
 achievement.thermalexpansion.machineFrame.desc=你也許會製造很多這玩意兒.
 
 achievement.thermalexpansion.furnace=笨蛋才用煤炭!
-achievement.thermalexpansion.furnace.desc=冶煉你的風格!
+achievement.thermalexpansion.furnace.desc=冶煉出你的風格!
 achievement.thermalexpansion.pulverizer=機械粉碎者!
 achievement.thermalexpansion.pulverizer.desc=可憐的礦石.
 achievement.thermalexpansion.sawmill=討厭樹, 但熱愛原木.
 achievement.thermalexpansion.sawmill.desc=喜歡伐木, 但求更好.
-achievement.thermalexpansion.smelter=1加1不等於2
+achievement.thermalexpansion.smelter=1加1等於1!
 achievement.thermalexpansion.smelter.desc=非常肯定不能用來烤吃的.
 achievement.thermalexpansion.crucible=熔化萬物
 achievement.thermalexpansion.crucible.desc=是的!它能做岩漿.你這怪物.
 achievement.thermalexpansion.transposer=免費續杯!
 achievement.thermalexpansion.transposer.desc=手動裝桶太累人.
 achievement.thermalexpansion.iceGen=打雪仗!
-achievement.thermalexpansion.iceGen.desc=造不出黃色的雪.
+achievement.thermalexpansion.iceGen.desc=這不會造出*黃色的雪*.
 achievement.thermalexpansion.extruder=嘿!這是石頭!
 achievement.thermalexpansion.extruder.desc=還有黑曜石呢!
 achievement.thermalexpansion.accumulator=水,無處不水
 achievement.thermalexpansion.accumulator.desc=不!岩漿可不行. 你這怪物.
 achievement.thermalexpansion.assembler=惡性循環
-achievement.thermalexpansion.assembler.desc=不!它不能那樣子合成東西.
+achievement.thermalexpansion.assembler.desc=不!它不能那樣子合成的.
 achievement.thermalexpansion.charger=什麽是RF?
 achievement.thermalexpansion.charger.desc=RF沒有界限, 所以看看你的手.
-achievement.thermalexpansion.insolator=箱子裡有太陽!
+achievement.thermalexpansion.insolator=這裡面有太陽!
 achievement.thermalexpansion.insolator.desc=絕對不是有機物.
 
 achievement.thermalexpansion.wrench=看起來像指甲!
 achievement.thermalexpansion.wrench.desc=如果你*真的*需要任何工具的話, 試試這板手吧.
 achievement.thermalexpansion.multimeter=B.S.E.E.
-achievement.thermalexpansion.multimeter.desc=毫無意外, 只有僥幸.
-achievement.thermalexpansion.schematic=沒有任何計劃.
+achievement.thermalexpansion.multimeter.desc=絕無意外, 唯有僥幸.
+achievement.thermalexpansion.schematic=沒有安排計劃.
 achievement.thermalexpansion.schematic.desc=計劃就是這樣!
 achievement.thermalexpansion.florb=我能丟這個嗎?!
-achievement.thermalexpansion.florb.desc=它裝著流體. 你丟丟看唄.
-achievement.thermalexpansion.florbMagmatic=這個世界在熊熊燃燒.
+achievement.thermalexpansion.florb.desc=它裝著流體. 你可以丟丟看.
+achievement.thermalexpansion.florbMagmatic=看這個世界熊熊燃燒.
 achievement.thermalexpansion.florbMagmatic=流體球. 是的, 它裝著岩漿. 你這怪物.
 
 achievement.thermalexpansion.potatoBattery=考慮不周全的念頭!
-achievement.thermalexpansion.potatoBattery.desc=馬那個鈴那個薯
+achievement.thermalexpansion.potatoBattery.desc=馬..鈴..薯..
 
 achievement.thermalexpansion.fluidRedstone=紅石革命!
 achievement.thermalexpansion.fluidRedstone.desc=世界雖未顛倒, 但已不同.
@@ -54,7 +53,7 @@ achievement.thermalexpansion.fluidEnder.desc=終點?!實際上才剛開始.
 achievement.thermalexpansion.fluidPyrotheum=噢上帝啊為什麽呢?!
 achievement.thermalexpansion.fluidPyrotheum.desc=這比岩漿還要糟. 你這怪物.
 achievement.thermalexpansion.fluidCryotheum=冬天來了
-achievement.thermalexpansion.fluidCryotheum.desc=除了感冒, 這依然比岩漿糟糕. 你這雪怪.
+achievement.thermalexpansion.fluidCryotheum.desc=除了感冒, 這依然比岩漿還糟糕. 你這雪怪.
 achievement.thermalexpansion.fluidMana=當魔法遇到科技.
 achievement.thermalexpansion.fluidMana.desc=這是做什麽的?
 achievement.thermalexpansion.fluidCoal=液化就是救贖!
@@ -68,15 +67,15 @@ chat.thermalexpansion.light.4=模式:總是關閉
 chat.thermalexpansion.light.5=模式:總是開啟
 
 config.thermalexpansion.block=方塊
-config.thermalexpansion.block.feature=啟用/禁止
+config.thermalexpansion.block.feature=啟用/禁用
 config.thermalexpansion.block.tweak=行為
 config.thermalexpansion.item=物品
-config.thermalexpansion.item.feature=啟用/禁止
+config.thermalexpansion.item.feature=啟用/禁用
 config.thermalexpansion.plugins=插件
 config.thermalexpansion.plugins.tweak=選項
 config.thermalexpansion.security=安全
 config.thermalexpansion.tweak=調整
-config.thermalexpansion.tweak.crafting=合成處理器
+config.thermalexpansion.tweak.crafting=合成處理
 config.thermalexpansion.tweak.recipe=合成表
 
 #Cell
@@ -89,13 +88,13 @@ info.thermalexpansion.cell.maxOut=最大輸出
 
 #Workbench
 info.thermalexpansion.gridClear=清空合成表
-info.thermalexpansion.gridSet=根據藍圖設置合成成表
+info.thermalexpansion.gridSet=根據藍圖設定合成表
 info.thermalexpansion.noRecipe=無合成配方
 info.thermalexpansion.noSchematic=無藍圖
 info.thermalexpansion.writeSchematic=寫入藍圖
 
 #Activator
-info.thermalexpansion.angleLevel=水平瞄準
+info.thermalexpansion.angleLevel=瞄準水平
 info.thermalexpansion.angleLow=向下瞄準
 info.thermalexpansion.angleHigh=向上瞄準
 info.thermalexpansion.clickLeft=左鍵
@@ -114,11 +113,11 @@ info.thermalexpansion.modeFluid=流體模式
 info.thermalexpansion.modeItem=物品模式
 info.thermalexpansion.modeRecv=僅接收
 info.thermalexpansion.modeSend=僅發送
-info.thermalexpansion.modeSendRecv=發生/接收
+info.thermalexpansion.modeSendRecv=發送/接收
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=鎖定流體槽
-info.thermalexpansion.toggleSmelterUnlock=解鎖流體槽
+info.thermalexpansion.toggleSmelterLock=Lock Flux Slot
+info.thermalexpansion.toggleSmelterUnlock=Unlock Flux Slot
 
 #Transposer
 info.thermalexpansion.toggleEmpty=切換:空置
@@ -177,7 +176,7 @@ info.thermalexpansion.capacitor.1=按住潛行(shift)鍵右擊以使用即可啟
 info.thermalexpansion.capacitor.2=為持有物品充能.
 info.thermalexpansion.capacitor.3=按住潛行(shift)鍵再次右擊即可取消啟動.
 info.thermalexpansion.capacitor.4=必須放在快捷欄內.
-info.thermalexpansion.capacitor.potato=機智的馬鈴薯君,可惜不能再次充能.
+info.thermalexpansion.capacitor.potato=聰明的選擇,可惜這不能再次充能.
 
 info.thermalexpansion.device.workbench=可以使用藍圖製作東西.
 info.thermalexpansion.device.activator=可以做的事情多到無法用提示來解釋.
@@ -210,27 +209,27 @@ info.thermalexpansion.machine.charger=給物品充能(RF).
 info.thermalexpansion.machine.insolator=給植物注入'太陽'和RF.
 
 info.thermalexpansion.florb.0=可容納1000mB大多數的流體.
-info.thermalexpansion.florb.1=可容納1000mB大多數的流體.
+info.thermalexpansion.florb.1=可容納1000mB大多數的熱流體.
 info.thermalexpansion.florb.2=填充以
 info.thermalexpansion.florb.3=是的,你可以丟掉它.
 info.thermalexpansion.florb.4=這種流體比空氣還輕.
-info.thermalexpansion.florb.5=這個流體球會跑很遠.
+info.thermalexpansion.florb.5=這個流體球可以丟很遠.
 
 info.thermalexpansion.securable=安全鎖.
 info.thermalexpansion.storage.enchant=附魔後可儲存更多物品.
 info.thermalexpansion.wrench=潛行時使用扳手拆除.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=殷鋼合金頭盔
-item.thermalexpansion.armor.invarPlate.name=殷鋼合金胸甲
-item.thermalexpansion.armor.invarLegs.name=殷鋼合金護腿
-item.thermalexpansion.armor.invarBoots.name=殷鋼合金靴子
+item.thermalexpansion.armor.invarHelmet.name=殷鋼頭盔
+item.thermalexpansion.armor.invarPlate.name=殷鋼胸甲
+item.thermalexpansion.armor.invarLegs.name=殷鋼護腿
+item.thermalexpansion.armor.invarBoots.name=殷鋼靴子
 
 item.thermalexpansion.augment.dynamoCoilDuct.name=傳輸線圈管道
-item.thermalexpansion.augment.dynamoEfficiency0.name=二級變速裝置
+item.thermalexpansion.augment.dynamoEfficiency0.name=次要變速裝置
 item.thermalexpansion.augment.dynamoEfficiency1.name=流量連接優化
 item.thermalexpansion.augment.dynamoEfficiency2.name=低溫線圈穩流
-item.thermalexpansion.augment.dynamoOutput0.name=二級傳輸線圈
+item.thermalexpansion.augment.dynamoOutput0.name=次要傳輸線圈
 item.thermalexpansion.augment.dynamoOutput1.name=流量調控加速
 item.thermalexpansion.augment.dynamoOutput2.name=低溫線圈增幅
 item.thermalexpansion.augment.dynamoThrottle.name=節流閥裝置
@@ -239,10 +238,10 @@ item.thermalexpansion.augment.generalAutoTransfer.name=積體伺服裝置
 item.thermalexpansion.augment.generalReconfigSides.name=積體模組框架
 item.thermalexpansion.augment.generalRedstoneControl.name=積體紅石電路
 
-item.thermalexpansion.augment.machineSecondary0.name=二級篩選裝置
+item.thermalexpansion.augment.machineSecondary0.name=次要篩選裝置
 item.thermalexpansion.augment.machineSecondary1.name=框架穩定裝置
 item.thermalexpansion.augment.machineSecondary2.name=陀螺伺服回饋
-item.thermalexpansion.augment.machineSpeed0.name=二級接收線圈
+item.thermalexpansion.augment.machineSpeed0.name=次要接收線圈
 item.thermalexpansion.augment.machineSpeed1.name=超頻變速模塊
 item.thermalexpansion.augment.machineSpeed2.name=超時空流量統一器
 
@@ -262,7 +261,7 @@ item.thermalexpansion.florb.florbMagmatic.name=岩漿流體球
 item.thermalexpansion.material.pneumaticServo.name=氣動伺服器
 item.thermalexpansion.material.powerCoilGold.name=紅石接收線圈
 item.thermalexpansion.material.powerCoilSilver.name=紅石傳輸線圈
-item.thermalexpansion.material.powerCoilElectrum.name=紅石傳導線圈
+item.thermalexpansion.material.powerCoilElectrum.name=紅石電導線圈
 item.thermalexpansion.material.lock.name=安全鎖
 
 item.thermalexpansion.material.dustWood.name=木屑
@@ -276,16 +275,16 @@ item.thermalexpansion.satchel.hardened.name=硬化小背包
 item.thermalexpansion.satchel.reinforced.name=強化小背包
 item.thermalexpansion.satchel.resonant.name=諧律小背包
 
-item.thermalexpansion.tool.invarBattleWrench.name=殷鋼合金戰鬥扳手
-item.thermalexpansion.tool.invarSword.name=殷鋼合金劍
-item.thermalexpansion.tool.invarShovel.name=殷鋼合金鏟
-item.thermalexpansion.tool.invarPickaxe.name=殷鋼合金鎬
-item.thermalexpansion.tool.invarAxe.name=殷鋼合金斧
-item.thermalexpansion.tool.invarHoe.name=殷鋼合金鋤
-item.thermalexpansion.tool.invarShears.name=殷鋼合金剪刀
-item.thermalexpansion.tool.invarFishingRod.name=殷鋼合金釣魚竿
-item.thermalexpansion.tool.invarSickle.name=殷鋼合金鐮刀
-item.thermalexpansion.tool.invarBow.name=殷鋼合金弓
+item.thermalexpansion.tool.invarBattleWrench.name=殷鋼戰鬥扳手
+item.thermalexpansion.tool.invarSword.name=殷鋼劍
+item.thermalexpansion.tool.invarShovel.name=殷鋼鏟
+item.thermalexpansion.tool.invarPickaxe.name=殷鋼鎬
+item.thermalexpansion.tool.invarAxe.name=殷鋼斧
+item.thermalexpansion.tool.invarHoe.name=殷鋼鋤
+item.thermalexpansion.tool.invarShears.name=殷鋼剪刀
+item.thermalexpansion.tool.invarFishingRod.name=殷鋼釣魚竿
+item.thermalexpansion.tool.invarSickle.name=殷鋼鐮刀
+item.thermalexpansion.tool.invarBow.name=殷鋼弓
 
 item.thermalexpansion.tool.wrench.name=扳手
 item.thermalexpansion.tool.multimeter.name=萬用電表
@@ -312,7 +311,7 @@ tab.thermalexpansion.device.breaker.1=請勿將臉靠近設備正面.
 tab.thermalexpansion.device.nullifier.0=將所有的東西送入 /dev/null!
 tab.thermalexpansion.device.nullifier.1=這是個恐怖的地方, 即便流體也難逃於此.
 
-tab.thermalexpansion.dynamo.0=能源需求不同產能率也不同.
+tab.thermalexpansion.dynamo.0=能源需求不同產能也不同.
 tab.thermalexpansion.dynamo.steam.0=使用蒸汽生產RF.
 tab.thermalexpansion.dynamo.steam.1=固體燃料和水能被用於生產蒸汽.
 tab.thermalexpansion.dynamo.magmatic.0=使用高溫流體生產RF.
@@ -348,19 +347,19 @@ tab.thermalexpansion.machine.precipitator.2=打一場雪仗.
 tab.thermalexpansion.machine.extruder.0=混合水與岩漿來制造不同種火成岩.
 tab.thermalexpansion.machine.extruder.1=所選的物品就是你將獲得的產物,前提是容器內的水與岩漿充足.
 tab.thermalexpansion.machine.extruder.2=Minecraft的物理太有趣了!
-tab.thermalexpansion.machine.accumulator.0=從環境中提取水.
+tab.thermalexpansion.machine.accumulator.0=從周圍抽取水.
 tab.thermalexpansion.machine.accumulator.1=放在水池中會加速.
 tab.thermalexpansion.machine.accumulator.2=別淹死了.
 tab.thermalexpansion.machine.assembler.0=在藍圖中儲存合成配方.
 tab.thermalexpansion.machine.assembler.1=每個物品消耗20RF.
-tab.thermalexpansion.machine.assembler.2=不,它無法而成.
+tab.thermalexpansion.machine.assembler.2=不,它無法合成.
 tab.thermalexpansion.machine.charger.0=為可儲存RF的物品充能.
 tab.thermalexpansion.machine.charger.1=充能速度受物品限制.
 tab.thermalexpansion.machine.charger.2=嗡的聲音....
 tab.thermalexpansion.machine.insolator.0=使用RF灌輸養分和光線進入植物
 tab.thermalexpansion.machine.insolator.1=不怎麼'有機'的農場.
-tab.thermalexpansion.machine.insolator.2=左插槽可以鎖定使他只能包含某些物品.
-tab.thermalexpansion.machine.insolator.3=榮耀地白熾燈!
+tab.thermalexpansion.machine.insolator.2=左插槽可以鎖定使他只能包含特定物品.
+tab.thermalexpansion.machine.insolator.3=Gloriously incandescent!
 
 tab.thermalexpansion.plate.signal.0=當觸發時發出遠端紅石訊號
 tab.thermalexpansion.plate.signal.1=訊號參數可被設定.
@@ -369,7 +368,7 @@ tab.thermalexpansion.plate.impulse.1=力量和角度可被設定.
 tab.thermalexpansion.plate.translocate.0=當觸發時傳送物件與實體.
 tab.thermalexpansion.plate.translocate.1=距離可被設定.
 
-tab.thermalexpansion.satchel.0=這是個儲物桶.無法儲存多種物品.
+tab.thermalexpansion.satchel.0=這是個小背包.無法儲存多種物品.
 tab.thermalexpansion.satchel.1=無法退還.
 tab.thermalexpansion.satchel.creative=只能儲存一...種物品.
 
@@ -394,7 +393,7 @@ tile.thermalexpansion.cell.resonant.name=諧律能量電池
 
 tile.thermalexpansion.device.workbench.name=機械師的工作台
 tile.thermalexpansion.device.lexicon.name=礦物辭典
-tile.thermalexpansion.device.activator.name=方塊放置器
+tile.thermalexpansion.device.activator.name=自動模擬機
 tile.thermalexpansion.device.breaker.name=方塊破壞機
 tile.thermalexpansion.device.nullifier.name=焚化爐
 
@@ -403,7 +402,7 @@ tile.thermalexpansion.dynamo.steam.name=蒸汽發電機
 tile.thermalexpansion.dynamo.magmatic.name=熱力發電機
 tile.thermalexpansion.dynamo.compression.name=壓縮發電機
 tile.thermalexpansion.dynamo.reactant.name=反應發電機
-tile.thermalexpansion.dynamo.enervation.name=弱化發電機
+tile.thermalexpansion.dynamo.enervation.name=衰變發電機
 
 tile.thermalexpansion.ender.tesseract.name=超時空連結器
 
@@ -441,7 +440,7 @@ tile.thermalexpansion.machine.assembler.name=自動組裝機
 tile.thermalexpansion.machine.charger.name=能量灌注機
 tile.thermalexpansion.machine.insolator.name=Phytogenic Insolator
 
-tile.thermalexpansion.plate.frame.name=墊框
+tile.thermalexpansion.plate.frame.name=墊板框架
 tile.thermalexpansion.plate.impulse.name=氣動墊
 tile.thermalexpansion.plate.signal.name=紅石墊
 tile.thermalexpansion.plate.translocate.name=傳送墊
