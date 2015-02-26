@@ -153,7 +153,7 @@ info.thermalexpansion.augment.machine.1=機器
 info.thermalexpansion.augment.secondaryChance=副產物幾率
 info.thermalexpansion.augment.speed=速度
 
-info.thermalexpansion.augment.dynamoCoilDuct=發電機:側面接入
+info.thermalexpansion.augment.dynamoCoilDuct=發電機:側面傳輸
 info.thermalexpansion.augment.dynamoCoilDuct.0=允許通過發電機的線圈來輸入輸出物品和流體.
 info.thermalexpansion.augment.dynamoEfficiency=發電機:燃料效率
 info.thermalexpansion.augment.dynamoOutput=發電機:能量輸出
