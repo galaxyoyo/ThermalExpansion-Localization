@@ -188,6 +188,9 @@ info.thermalexpansion.dynamo.compression=Requires fluid fuel and coolant.
 info.thermalexpansion.dynamo.reactant=Requires fluid fuel and solid reactant.
 info.thermalexpansion.dynamo.enervation=Extracts flux from various objects.
 
+info.thermalexpansion.ender.tesseract.0=Unified point in spacetime.
+info.thermalexpansion.ender.tesseract.1=Can transfer items, fluids, and RF.
+
 info.thermalexpansion.light.0=Emits light based on redstone signal.
 info.thermalexpansion.light.1=Can be almost any color you wish.
 
