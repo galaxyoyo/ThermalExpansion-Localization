@@ -415,11 +415,8 @@ tile.thermalexpansion.glass.name=Verhard Glass
 
 tile.thermalexpansion.light.name=6-Modus Verlichting
 tile.thermalexpansion.light.illuminator.name=Gloeisteen Verlichter
-tile.thermalexpansion.light.lampBasic.name=Stralende Lumium Lamp
-tile.thermalexpansion.light.lampBasicAlt.name=Lumium Lamp
-tile.thermalexpansion.light.illuminatorDim.name=Gedimmde Gloeisteen Verlichter
-tile.thermalexpansion.light.lampDim.name=Gedimmde Stralende Lumium Lamp
-tile.thermalexpansion.light.lampDimAlt.name=Gedimmde Lumium Lamp
+tile.thermalexpansion.light.lampLumiumRadiant.name=Stralende Lumium Lamp
+tile.thermalexpansion.light.lampLumium.name=Lumium Lamp
 
 tile.thermalexpansion.machine.furnace.name=Redstone Fornuis
 tile.thermalexpansion.machine.pulverizer.name=Verpulveraar

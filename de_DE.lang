@@ -389,7 +389,7 @@ tile.thermalexpansion.glass.name=Gehärtetes Glas
 
 tile.thermalexpansion.light.name=6-Modi-Beleuchtung
 tile.thermalexpansion.light.illuminator.name=Glowstone-Illuminator
-tile.thermalexpansion.light.lampBasic.name=Lumiumlampe
+tile.thermalexpansion.light.lampLumiumRadiant.name=Lumiumlampe
 
 tile.thermalexpansion.machine.furnace.name=Redstone-Ofen
 tile.thermalexpansion.machine.pulverizer.name=Pulverisierer

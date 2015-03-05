@@ -389,7 +389,7 @@ tile.thermalexpansion.glass.name=Vetro indurito
 
 tile.thermalexpansion.light.name=Illuminazione 6-modalità
 tile.thermalexpansion.light.illuminator.name=Illuminatore di luminite
-tile.thermalexpansion.light.lampBasic.name=Lampada di luminio
+tile.thermalexpansion.light.lampLumiumRadiant.name=Lampada di luminio
 
 tile.thermalexpansion.machine.furnace.name=Fornace a pietrarossa
 tile.thermalexpansion.machine.pulverizer.name=Polverizatore

@@ -428,11 +428,8 @@ tile.thermalexpansion.glass.name=Vidro Endurecido
 
 tile.thermalexpansion.light.name=Iluminação de 6 Tipos
 tile.thermalexpansion.light.illuminator.name=Iluminador de Pedra Luminosa
-tile.thermalexpansion.light.lampBasic.name=Lâmpada Radiante de Lumium
-tile.thermalexpansion.light.lampBasicAlt.name=Lâmpada de Lumium
-tile.thermalexpansion.light.illuminatorDim.name=Iluminador Turvo de Pedra Luminosa
-tile.thermalexpansion.light.lampDim.name=Iluminador Turvo de Lâmpada de Lumium
-tile.thermalexpansion.light.lampDimAlt.name=Lâmpada de Lumium Turva
+tile.thermalexpansion.light.lampLumiumRadiant.name=Lâmpada Radiante de Lumium
+tile.thermalexpansion.light.lampLumium.name=Lâmpada de Lumium
 
 tile.thermalexpansion.machine.furnace.name=Fornalha de Redstone
 tile.thermalexpansion.machine.pulverizer.name=Pulverizador

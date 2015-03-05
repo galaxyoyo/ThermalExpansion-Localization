@@ -421,11 +421,8 @@ tile.thermalexpansion.glass.name=強化玻璃
 
 tile.thermalexpansion.light.name=六種照明模式
 tile.thermalexpansion.light.illuminator.name=螢石燈具
-tile.thermalexpansion.light.lampBasic.name=發亮的燈具
-tile.thermalexpansion.light.lampBasicAlt.name=燈具
-tile.thermalexpansion.light.illuminatorDim.name=黯淡螢石燈具
-tile.thermalexpansion.light.lampDim.name=發亮的黯淡燈具
-tile.thermalexpansion.light.lampDimAlt.name=黯淡燈具
+tile.thermalexpansion.light.lampLumiumRadiant.name=發亮的燈具
+tile.thermalexpansion.light.lampLumium.name=燈具
 
 tile.thermalexpansion.machine.furnace.name=紅石爐
 tile.thermalexpansion.machine.pulverizer.name=磨粉機

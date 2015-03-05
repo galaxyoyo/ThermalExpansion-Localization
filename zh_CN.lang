@@ -389,7 +389,7 @@ tile.thermalexpansion.glass.name=强化玻璃
 
 tile.thermalexpansion.light.name=6种照明模式
 tile.thermalexpansion.light.illuminator.name=萤石光源
-tile.thermalexpansion.light.lampBasic.name=照明灯具
+tile.thermalexpansion.light.lampLumiumRadiant.name=照明灯具
 
 tile.thermalexpansion.machine.furnace.name=红石炉
 tile.thermalexpansion.machine.pulverizer.name=磨粉机
