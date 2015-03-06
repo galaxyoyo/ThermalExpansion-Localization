@@ -188,6 +188,9 @@ info.thermalexpansion.dynamo.compression=Требуется жидкое топ�
 info.thermalexpansion.dynamo.reactant=Требуется жидкое топливо и твёрдый реагент.
 info.thermalexpansion.dynamo.enervation=Извлекает флакс из разных объектов.
 
+info.thermalexpansion.ender.tesseract.0=Уникальная точка в пространстве.
+info.thermalexpansion.ender.tesseract.1=Может переносить предметы, жидкости и RF.
+
 info.thermalexpansion.light.0=Излучает свет на основе сигнала красного камня.
 info.thermalexpansion.light.1=Может быть практически любого цвета.
 
@@ -431,8 +434,8 @@ tile.thermalexpansion.glass.name=Закалённое стекло
 
 tile.thermalexpansion.light.name=6-режимное освещение
 tile.thermalexpansion.light.illuminator.name=Светильник из светящегося камня
-tile.thermalexpansion.light.lampLumiumRadiant.name=Сияющий люмиум-светильник
-tile.thermalexpansion.light.lampLumium.name=Люмиум-светильник
+tile.thermalexpansion.light.lampLumiumRadiant.name=Сияющий ламиумовый светильник
+tile.thermalexpansion.light.lampLumium.name=Ламиумовый светильник
 
 tile.thermalexpansion.machine.furnace.name=Красная печь
 tile.thermalexpansion.machine.pulverizer.name=Измельчитель
