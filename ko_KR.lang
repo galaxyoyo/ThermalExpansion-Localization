@@ -391,7 +391,7 @@ tile.thermalexpansion.glass.name=경화 유리
 
 tile.thermalexpansion.light.name=6-발광 모드
 tile.thermalexpansion.light.illuminator.name=발광석 조명기
-tile.thermalexpansion.light.lampBasic.name=루미눔 램프
+tile.thermalexpansion.light.lampLumium.name=루미눔 램프
 
 tile.thermalexpansion.machine.furnace.name=레드스톤 화로
 tile.thermalexpansion.machine.pulverizer.name=분쇄기

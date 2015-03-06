@@ -431,11 +431,8 @@ tile.thermalexpansion.glass.name=Закалённое стекло
 
 tile.thermalexpansion.light.name=6-режимное освещение
 tile.thermalexpansion.light.illuminator.name=Светильник из светящегося камня
-tile.thermalexpansion.light.lampBasic.name=Сияющий люмиум-светильник
-tile.thermalexpansion.light.lampBasicAlt.name=Люмиум-светильник
-tile.thermalexpansion.light.illuminatorDim.name=Приглушённый светильник из светящегося камня
-tile.thermalexpansion.light.lampDim.name=Приглушённый сияющий люмиум-светильник
-tile.thermalexpansion.light.lampDimAlt.name=Приглушённый люмиум-светильник
+tile.thermalexpansion.light.lampLumiumRadiant.name=Сияющий люмиум-светильник
+tile.thermalexpansion.light.lampLumium.name=Люмиум-светильник
 
 tile.thermalexpansion.machine.furnace.name=Красная печь
 tile.thermalexpansion.machine.pulverizer.name=Измельчитель
