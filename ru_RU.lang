@@ -162,6 +162,11 @@ info.thermalexpansion.augment.generalRedstoneControl.0=Позволяет уст
 
 info.thermalexpansion.augment.machineSecondary=Механизм: Вторичный выход
 info.thermalexpansion.augment.machineSpeed=Механизм: Скорость обработки
+
+info.thermalexpansion.augment.machineFurnaceFood=Красная печь: Специализация
+info.thermalexpansion.augment.machineFurnaceFood.0=Увеличивает выход еды.
+info.thermalexpansion.augment.machineFurnaceFood.1=Готовит только еду.
+
 info.thermalexpansion.augment.machineExtruderBoost=Вулканический пресс: Размер партии
 
 info.thermalexpansion.capacitor.0=Активируйте, чтобы заряжать предметы в руке.
@@ -248,6 +253,8 @@ item.thermalexpansion.augment.machineSecondary2.name=Отклик гиросер
 item.thermalexpansion.augment.machineSpeed0.name=Вторичная принимающая катушка
 item.thermalexpansion.augment.machineSpeed1.name=Разогнанный модульный редуктор
 item.thermalexpansion.augment.machineSpeed2.name=Пространственно-временной унификатор флакса
+
+item.thermalexpansion.augment.machineFurnaceFood.name=Тривекционная камера
 
 item.thermalexpansion.augment.machineExtruderBoost0.name=Ускоренная экструзия
 item.thermalexpansion.augment.machineExtruderBoost1.name=Вулканический катализатор
