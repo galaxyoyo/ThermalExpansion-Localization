@@ -162,6 +162,11 @@ info.thermalexpansion.augment.generalRedstoneControl.0=Allows for redstone contr
 
 info.thermalexpansion.augment.machineSecondary=Machine: Secondary Output
 info.thermalexpansion.augment.machineSpeed=Machine: Processing Speed
+
+info.thermalexpansion.augment.machineFurnaceFood=Redstone Furnace: Specialization
+info.thermalexpansion.augment.machineFurnaceFood.0=Increases food output.
+info.thermalexpansion.augment.machineFurnaceFood.1=Can only cook food.
+
 info.thermalexpansion.augment.machineExtruderBoost=Igneous Extruder: Batch Size
 
 info.thermalexpansion.capacitor.0=Activate to charge held items.
@@ -248,6 +253,8 @@ item.thermalexpansion.augment.machineSecondary2.name=GyroServo Feedback
 item.thermalexpansion.augment.machineSpeed0.name=Secondary Reception Coil
 item.thermalexpansion.augment.machineSpeed1.name=Overclocked Modular Gearbox
 item.thermalexpansion.augment.machineSpeed2.name=Space-Time Flux Unifier
+
+item.thermalexpansion.augment.machineFurnaceFood.name=Trivection Chamber
 
 item.thermalexpansion.augment.machineExtruderBoost0.name=Accelerated Extrusion
 item.thermalexpansion.augment.machineExtruderBoost1.name=Igneous Catalyst
