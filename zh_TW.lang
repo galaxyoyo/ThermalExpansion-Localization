@@ -120,7 +120,7 @@ info.thermalexpansion.toggleSmelterLock=鎖定助熔劑槽
 info.thermalexpansion.toggleSmelterUnlock=解鎖助熔劑槽
 
 #Transposer
-info.thermalexpansion.toggleEmpty=切換:空置
+info.thermalexpansion.toggleEmpty=切換:清空
 info.thermalexpansion.toggleFill=切換:填充
 info.thermalexpansion.toggleWait=已切換
 
@@ -151,7 +151,7 @@ info.thermalexpansion.augment.levels.1=已是最高級了.
 info.thermalexpansion.augment.machine.0=需要一個
 info.thermalexpansion.augment.machine.1=機器
 info.thermalexpansion.augment.secondaryChance=副產物幾率
-info.thermalexpansion.augment.perOperation=每操作
+info.thermalexpansion.augment.perOperation=每次操作
 info.thermalexpansion.augment.production=生產
 info.thermalexpansion.augment.speed=速度
 info.thermalexpansion.augment.upTo=最多
@@ -224,7 +224,7 @@ info.thermalexpansion.machine.assembler=合成物品.
 info.thermalexpansion.machine.charger=給物品充能(RF).
 info.thermalexpansion.machine.insolator=給植物注入'太陽'和RF.
 
-info.thermalexpansion.plate.signal=在發出紅石信號當接觸東西.
+info.thermalexpansion.plate.signal=發出紅石信號當接觸東西時.
 info.thermalexpansion.plate.impulse=給予接觸的東西力道.
 info.thermalexpansion.plate.translocate=瞬間移動接觸的東西.
 
@@ -295,8 +295,8 @@ item.thermalexpansion.material.dustWood.name=木屑
 item.thermalexpansion.material.dustWoodCompressed.name=壓縮木屑
 item.thermalexpansion.material.slag.name=礦渣
 item.thermalexpansion.material.slagRich.name=高級礦渣
-item.thermalexpansion.material.fertilizer.name=Phyto-Gro
-item.thermalexpansion.material.fertilizerRich.name=Rich Phyto-Gro
+item.thermalexpansion.material.fertilizer.name=複合肥料
+item.thermalexpansion.material.fertilizerRich.name=高級複合肥料
 
 item.thermalexpansion.satchel.creative.name=創造小背包
 item.thermalexpansion.satchel.basic.name=基礎小背包
@@ -329,7 +329,7 @@ tab.thermalexpansion.device.workbench.0=合成物品!
 tab.thermalexpansion.device.workbench.1=合成配方可以匯入或匯出藍圖.
 tab.thermalexpansion.device.workbench.2=Shift右擊藍圖以直接合成已有配方.
 tab.thermalexpansion.device.activator.0=它能切片!能切塊!能推倒東西,也能丟東西!
-tab.thermalexpansion.device.activator.1=它可能是隨機的,也可能不是.可能是潛行的,也可能不是.
+tab.thermalexpansion.device.activator.1=它或許是隨機的,或許不是.或許是潛行的,或許不是.
 tab.thermalexpansion.device.activator.2=看起來就是萬能的!
 tab.thermalexpansion.device.breaker.0=破壞一切!
 tab.thermalexpansion.device.breaker.1=請勿將臉靠近設備正面.
