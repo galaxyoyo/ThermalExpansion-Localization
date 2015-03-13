@@ -28,6 +28,8 @@ achievement.thermalexpansion.accumulator=물, 그것은 어디나 존재합니�
 #achievement.thermalexpansion.assembler.desc=No, it will not craft that.
 #achievement.thermalexpansion.charger=What The Flux?
 #achievement.thermalexpansion.charger.desc=Flux knows no bounds. So watch your hands.
+achievement.thermalexpansion.insolator=Sun in a Box!
+achievement.thermalexpansion.insolator.desc=Definitely not organic.
 
 #achievement.thermalexpansion.wrench=Looks Like a Nail!
 achievement.thermalexpansion.wrench.desc=당신에게 매우필요한 도구는 망치에요.
@@ -65,7 +67,7 @@ chat.thermalexpansion.light.3=모드: 신호 세기 (반비례)
 chat.thermalexpansion.light.4=모드: 항상 끔
 chat.thermalexpansion.light.5=모드: 항상 켬
 
-config.thermalexpansion.block=블럭
+config.thermalexpansion.block=블록
 config.thermalexpansion.block.feature=활성화/비활성화
 #config.thermalexpansion.block.tweak=Behavior
 config.thermalexpansion.item=아이템
@@ -114,11 +116,24 @@ info.thermalexpansion.modeRecv=받기
 info.thermalexpansion.modeSend=보내기
 info.thermalexpansion.modeSendRecv=받기/보내기
 
+#Smelter
+info.thermalexpansion.toggleSmelterLock=Lock Flux Slot
+info.thermalexpansion.toggleSmelterUnlock=Unlock Flux Slot
+
 #액체운송기(Transposer)
 info.thermalexpansion.toggleEmpty=전환: 비우기
 info.thermalexpansion.toggleFill=전환: 채우기
-info.thermalexpansion.toggleFill=채우기 모드
 info.thermalexpansion.toggleWait=토글
+
+#Insolator
+info.thermalexpansion.toggleInsolatorLock=Lock Fertilizer Slot
+info.thermalexpansion.toggleInsolatorUnlock=Unlock Fertilizer Slot
+
+#Plates
+info.thermalexpansion.distance=Distance
+info.thermalexpansion.intensitySignal=Signal Strength
+info.thermalexpansion.intensityImpulse=Launch Force
+info.thermalexpansion.duration=Duration
 
 #티어별 한글화(Tier Localization)
 info.thermalexpansion.creative=크리에이티브
@@ -131,13 +146,17 @@ info.thermalexpansion.augment=강화
 info.thermalexpansion.augment.energyProduced=에너지 생산
 info.thermalexpansion.augment.energyUsed=에너지 소모
 info.thermalexpansion.augment.fuelConsumed=연료 소모
-info.thermalexpansion.augment.fuelEnergy=발전량 증가
+info.thermalexpansion.augment.fuelEnergy=기본 발전량
 info.thermalexpansion.augment.levels.0=이전 단계의 업그레이드가 설치되 있어야합니다.
 info.thermalexpansion.augment.levels.1=가장 높은 단계의 강화만 적용됩니다.
 info.thermalexpansion.augment.machine.0=요구하는 것:
 info.thermalexpansion.augment.machine.1=단계의 기계가 필요합니다.
 info.thermalexpansion.augment.secondaryChance=추가 부산물 획득
+info.thermalexpansion.augment.perOperation=Per Operation
+info.thermalexpansion.augment.production=Production
 info.thermalexpansion.augment.speed=속도
+info.thermalexpansion.augment.upTo=Up to
+info.thermalexpansion.augment.waterConsumed=Water Consumed
 
 info.thermalexpansion.augment.dynamoCoilDuct=다이나모: 측면 접근 허용
 info.thermalexpansion.augment.dynamoCoilDuct.0=다이나모에서 아이템과 액체를 내보내고 받을 수 있게 합니다.
@@ -157,12 +176,23 @@ info.thermalexpansion.augment.generalRedstoneControl.0=기계를 레드스톤 �
 info.thermalexpansion.augment.machineSecondary=기계: 부산물생성
 info.thermalexpansion.augment.machineSpeed=기계: 작업속도
 
+info.thermalexpansion.augment.machineFurnaceFood=Redstone Furnace: Specialization
+info.thermalexpansion.augment.machineFurnaceFood.0=Increases food output.
+info.thermalexpansion.augment.machineFurnaceFood.1=Can only cook food.
+
+info.thermalexpansion.augment.machineExtruderBoost=Igneous Extruder: Batch Size
+
 info.thermalexpansion.capacitor.0=활성화 되었을 때 손에 있는 아이템을 충전합니다.
 info.thermalexpansion.capacitor.1=Shift 우클릭으로 활성화합니다.
 info.thermalexpansion.capacitor.2=손에 있는 아이템 충전 중
 info.thermalexpansion.capacitor.3=Shift 우클릭으로 비활성화합니다.
 info.thermalexpansion.capacitor.4=단축창에 있어야합니다.
 info.thermalexpansion.capacitor.potato=현명한선택입니다! 하지만 재충전을 불가능해요.
+
+info.thermalexpansion.device.workbench=Crafts things; can use blueprints.
+info.thermalexpansion.device.activator=Does more than a tooltip can explain.
+info.thermalexpansion.device.breaker=Breaks blocks. Simple enough.
+info.thermalexpansion.device.nullifier=Removes things from existence.
 
 info.thermalexpansion.diagram.0=Shift 우클릭으로 설정을 지웁니다.
 info.thermalexpansion.diagram.1=기계에 사용해서 설정을 복사합니다.
@@ -176,6 +206,12 @@ info.thermalexpansion.dynamo.compression=액체 연료와 냉매가 필요합니
 info.thermalexpansion.dynamo.reactant=액체 연료와 고체 촉매가 필요합니다.
 info.thermalexpansion.dynamo.enervation=다양한 물체에서 RF를 추출합니다.
 
+info.thermalexpansion.ender.tesseract.0=Unified point in spacetime.
+info.thermalexpansion.ender.tesseract.1=Can transfer items, fluids, and RF.
+
+info.thermalexpansion.light.0=Emits light based on redstone signal.
+info.thermalexpansion.light.1=Can be almost any color you wish.
+
 info.thermalexpansion.machine.furnace=아이템을 굽습니다.
 info.thermalexpansion.machine.pulverizer=아이템을 분쇄합니다.
 info.thermalexpansion.machine.sawmill=목재를 추가로 얻을 수 있습니다.
@@ -187,6 +223,11 @@ info.thermalexpansion.machine.extruder=뜨거운 액체와 차가운 액체를 �
 info.thermalexpansion.machine.accumulator=주변에서 물을 끌어옵니다.
 info.thermalexpansion.machine.assembler=아이템을 조합합니다.
 info.thermalexpansion.machine.charger=아이템에 RF를 충전합니다.
+info.thermalexpansion.machine.insolator=Infuses plants with 'sun' and RF.
+
+info.thermalexpansion.plate.signal=Emits a redstone signal on contact.
+info.thermalexpansion.plate.impulse=Imparts motion to things on contact.
+info.thermalexpansion.plate.translocate=Teleports things on contact.
 
 info.thermalexpansion.florb.0=1000 mB 만큼의 액체를 저장합니다.
 info.thermalexpansion.florb.1=1000 mB 만큼의 뜨거운 액체를 저장합니다.
@@ -195,16 +236,17 @@ info.thermalexpansion.florb.3=던질 수 있습니다.
 info.thermalexpansion.florb.4=이 액체는 공기보다 가볍습니다.
 info.thermalexpansion.florb.5=더 멀리 던질 수 있습니다.
 
+info.thermalexpansion.tool.battleWrench=90% hammer, 10% wrench.
+info.thermalexpansion.tool.wrench.0=Sure, it's a wrench.
+info.thermalexpansion.tool.wrench.1=But any tool is a hammer
+info.thermalexpansion.tool.wrench.2=if you need it to be one.
+
+#info.thermalexpansion.multimeter=Use a multimeter while sneaking to configure.
 #info.thermalexpansion.securable=Securable with a lock.
 #info.thermalexpansion.storage.enchant=Can be enchanted to hold more items.
 #info.thermalexpansion.wrench=Wrench while sneaking to dismantle.
 
 #아이템(Items)
-item.thermalexpansion.armor.invarHelmet.name=인바 투구
-item.thermalexpansion.armor.invarPlate.name=인바 갑옷
-item.thermalexpansion.armor.invarLegs.name=인바 레깅스
-item.thermalexpansion.armor.invarBoots.name=인바 부츠
-
 item.thermalexpansion.augment.dynamoCoilDuct.name=코일 수송 배관
 item.thermalexpansion.augment.dynamoEfficiency0.name=보조 변속기
 item.thermalexpansion.augment.dynamoEfficiency1.name=자속 연동 최적화
@@ -224,6 +266,12 @@ item.thermalexpansion.augment.machineSecondary2.name=재순환 공정
 item.thermalexpansion.augment.machineSpeed0.name=이차 반응 코일
 item.thermalexpansion.augment.machineSpeed1.name=모듈형 과출력 변속기
 item.thermalexpansion.augment.machineSpeed2.name=시공간 자속 통합
+
+item.thermalexpansion.augment.machineFurnaceFood.name=Trivection Chamber
+
+item.thermalexpansion.augment.machineExtruderBoost0.name=Accelerated Extrusion
+item.thermalexpansion.augment.machineExtruderBoost1.name=Igneous Catalyst
+item.thermalexpansion.augment.machineExtruderBoost2.name=Pyroclastic Generation
 
 item.thermalexpansion.capacitor.creative.name=크리에이티브 축전지
 item.thermalexpansion.capacitor.potato.name=튜보러스 축전지
@@ -248,6 +296,8 @@ item.thermalexpansion.material.dustWood.name=톱밥
 item.thermalexpansion.material.dustWoodCompressed.name=압축 톱밥
 item.thermalexpansion.material.slag.name=슬래그
 item.thermalexpansion.material.slagRich.name=풍부한 슬래그
+item.thermalexpansion.material.fertilizer.name=Phyto-Gro
+item.thermalexpansion.material.fertilizerRich.name=Rich Phyto-Gro
 
 item.thermalexpansion.satchel.creative.name=크리에이티브 가방
 item.thermalexpansion.satchel.basic.name=가방
@@ -256,15 +306,6 @@ item.thermalexpansion.satchel.reinforced.name=강화 가방
 item.thermalexpansion.satchel.resonant.name=공진 가방
 
 item.thermalexpansion.tool.invarBattleWrench.name=인바 전투 렌치
-item.thermalexpansion.tool.invarSword.name=인바 검
-item.thermalexpansion.tool.invarShovel.name=인바 삽
-item.thermalexpansion.tool.invarPickaxe.name=인바 곡괭이
-item.thermalexpansion.tool.invarAxe.name=인바 도끼
-item.thermalexpansion.tool.invarHoe.name=인바 괭이
-item.thermalexpansion.tool.invarShears.name=인바 가위
-item.thermalexpansion.tool.invarFishingRod.name=강화 인바 낚싯대
-item.thermalexpansion.tool.invarSickle.name=인바 낫
-item.thermalexpansion.tool.invarBow.name=강화 인바 활
 
 item.thermalexpansion.tool.wrench.name=크레센트 해머
 item.thermalexpansion.tool.multimeter.name=멀티 미터
@@ -276,6 +317,11 @@ itemGroup.thermalexpansion.creativeTabTools=써멀 익스팬션: 도구
 itemGroup.thermalexpansion.creativeTabItems=써멀 익스팬션: 아이템
 itemGroup.thermalexpansion.creativeTabFlorbs=써멀 익스팬션: 플로브
 
+#NEI Recipes
+recipe.thermalexpansion.machine=Machine Crafting
+recipe.thermalexpansion.upgrade=Upgrade Crafting
+recipe.thermalexpansion.secure=Security Crafting
+
 #정보 탭(Info Tabs)
 tab.thermalexpansion.cell.0=레드스톤 플럭스를 저장합니다.
 tab.thermalexpansion.cell.1=Shift, Ctrl를 눌러서 섬세하게 에너지 입출력을 조절합니다.
@@ -283,7 +329,6 @@ tab.thermalexpansion.cell.1=Shift, Ctrl를 눌러서 섬세하게 에너지 입�
 tab.thermalexpansion.device.workbench.0=물품을 조합합니다.
 tab.thermalexpansion.device.workbench.1=조합법을 도식도에 기록하거나 불러옵니다.
 tab.thermalexpansion.device.workbench.2=작업대에 올려진 기록된 도식도을 Shift 우클릭을 통해 조합을 바로할 수 있습니다.
-#tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=자르고! 굴리고! 붓고! 던지고! 많은 일들을 하는 기계입니다!
 tab.thermalexpansion.device.activator.1=랜덤할 수도 있고.. 아닐 수도 있고.. 알 수 없는 기계.. 일 수도.. 아닐 수도..
 tab.thermalexpansion.device.activator.2=간악하게도 다재다능합니다!
@@ -304,6 +349,10 @@ tab.thermalexpansion.dynamo.enervation.0=천연자원 혹은 저장소에서 에
 tab.thermalexpansion.ender.tesseract.0=물질을 먼 거리 너머로, 차원을 가로질러 즉시 전송합니다.
 tab.thermalexpansion.ender.tesseract.1=연결을 결정하기 위해 주파수를 설정하세요.
 
+tab.thermalexpansion.light.0=Highly configurable light, redstone sensitive.
+tab.thermalexpansion.light.1=Color and mode may be adjusted with sliders.
+tab.thermalexpansion.light.2=Replace the darkness with awesomeness!
+
 tab.thermalexpansion.machine.furnace.0=물건을 굽습니다.
 tab.thermalexpansion.machine.furnace.1=음식을 조리할 때는 적은 에너지만을 사용됩니다.
 tab.thermalexpansion.machine.furnace.2=냠냠냠
@@ -315,7 +364,8 @@ tab.thermalexpansion.machine.sawmill.1=손으로 하는것 보다 훨씬 효율�
 tab.thermalexpansion.machine.sawmill.2=손 조심하세요!
 tab.thermalexpansion.machine.smelter.0=금속과 여러 물질을 매우 높은 온도에서 제련합니다.
 tab.thermalexpansion.machine.smelter.1=광석을 정제하고 고급기계를 제작할때 유용합니다.
-tab.thermalexpansion.machine.smelter.2=요리는 당연히 안되요.
+tab.thermalexpansion.machine.smelter.2=Left slot can be locked to only contain certain items.
+tab.thermalexpansion.machine.smelter.3=요리는 당연히 안되요.
 tab.thermalexpansion.machine.crucible.0=고체를 액체로 녹입니다.
 tab.thermalexpansion.machine.crucible.1=고급기계들을 제작할때 매우 유용합니다.
 tab.thermalexpansion.machine.crucible.2=어린아이와 애완동물이 가까이 가지 않게 주의하세요.
@@ -337,6 +387,17 @@ tab.thermalexpansion.machine.assembler.2=아뇨. 그건 못 만들어요.
 tab.thermalexpansion.machine.charger.0=RF를호환하는 아이템에 에너지를 충전합니다.
 tab.thermalexpansion.machine.charger.1=충전속도는 아이템에 따라 달라집니다.
 tab.thermalexpansion.machine.charger.2=윙윙거리는 소리를 잘들어보세요.
+tab.thermalexpansion.machine.insolator.0=Infuses nutrients and light into plants using Redstone Flux.
+tab.thermalexpansion.machine.insolator.1=Not exactly 'organic' farming.
+tab.thermalexpansion.machine.insolator.2=Left slot can be locked to only contain certain items.
+tab.thermalexpansion.machine.insolator.3=Gloriously incandescent!
+
+tab.thermalexpansion.plate.signal.0=Emits a remote redstone signal on contact.
+tab.thermalexpansion.plate.signal.1=Signal parameters may be configured.
+tab.thermalexpansion.plate.impulse.0=Imparts momentum on contact.
+tab.thermalexpansion.plate.impulse.1=Force and angle may be configured.
+tab.thermalexpansion.plate.translocate.0=Teleport objects and entities on contact.
+tab.thermalexpansion.plate.translocate.1=Distance may be configured.
 
 tab.thermalexpansion.satchel.0=이것은 가방입니다. 몇몇 아이템은 담을 수 없습니다.
 tab.thermalexpansion.satchel.1=환불은 안됩니다.
@@ -347,7 +408,7 @@ tab.thermalexpansion.storage.enchant=더 많은 아이템을 보관 가능하게
 tab.thermalexpansion.strongbox.0=이것은 상자입니다! 물건을 저장합니다. 뭐... 대부분의 물건 말입니다.
 tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보유하고 있습니다!
 
-#블럭(Blocks)
+#블록(Blocks)
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
 tile.thermalexpansion.cache.basic.name=캐시
 tile.thermalexpansion.cache.hardened.name=경화 캐시
@@ -362,7 +423,6 @@ tile.thermalexpansion.cell.reinforced.name=레드스톤 에너지 셀
 tile.thermalexpansion.cell.resonant.name=공진 에너지 셀
 
 tile.thermalexpansion.device.workbench.name=기계공의 작업대
-tile.thermalexpansion.device.lexicon.name=포지 렉시콘
 tile.thermalexpansion.device.activator.name=자동 활성기
 tile.thermalexpansion.device.breaker.name=지형 파괴기
 tile.thermalexpansion.device.nullifier.name=물체 제거기
@@ -381,8 +441,11 @@ tile.thermalexpansion.frame.machineHardened.name=머신 프레임 (경화)
 tile.thermalexpansion.frame.machineReinforced.name=머신 프레임 (강화)
 tile.thermalexpansion.frame.machineResonant.name=머신 프레임 (공진)
 tile.thermalexpansion.frame.cellBasic.name=리드스톤 에너지 셀 프레임
+tile.thermalexpansion.frame.cellHardened.name=경화 에너지 셀 프레임
 tile.thermalexpansion.frame.cellReinforcedEmpty.name=레드스톤 에너지 셀 프레임 (빔)
 tile.thermalexpansion.frame.cellReinforcedFull.name=레드스톤 에너지 셀 프레임 (가득참)
+tile.thermalexpansion.frame.cellResonantEmpty.name=공진 에너지 셀 프레임 (빔)
+tile.thermalexpansion.frame.cellResonantFull.name=공진 에너지 셀 프레임(가득참)
 tile.thermalexpansion.frame.tesseractEmpty.name=테서랙트 프레임 (빔)
 tile.thermalexpansion.frame.tesseractFull.name=테서랙트 프레임 (가득참)
 tile.thermalexpansion.frame.illuminator.name=조명기 틀
@@ -391,6 +454,7 @@ tile.thermalexpansion.glass.name=경화 유리
 
 tile.thermalexpansion.light.name=6-발광 모드
 tile.thermalexpansion.light.illuminator.name=발광석 조명기
+tile.thermalexpansion.light.lampLumiumRadiant.name=Radiant Lumium Lamp
 tile.thermalexpansion.light.lampLumium.name=루미눔 램프
 
 tile.thermalexpansion.machine.furnace.name=레드스톤 화로
@@ -404,6 +468,12 @@ tile.thermalexpansion.machine.extruder.name=화성암 생성기
 tile.thermalexpansion.machine.accumulator.name=물 축적기
 tile.thermalexpansion.machine.assembler.name=순환 조합기
 tile.thermalexpansion.machine.charger.name=전력 주입기
+tile.thermalexpansion.machine.insolator.name=Phytogenic Insolator
+
+tile.thermalexpansion.plate.frame.name=Plate Frame
+tile.thermalexpansion.plate.impulse.name=Impulse Plate
+tile.thermalexpansion.plate.signal.name=Redstone Plate
+tile.thermalexpansion.plate.translocate.name=Translocation Plate
 
 tile.thermalexpansion.rockwool.black.name=검은색 석면
 tile.thermalexpansion.rockwool.red.name=빨간색 석면
@@ -437,3 +507,15 @@ tile.thermalexpansion.tank.basic.name=휴대용 탱크
 tile.thermalexpansion.tank.hardened.name=경화 휴대용 탱크
 tile.thermalexpansion.tank.reinforced.name=강화 휴대용 탱크
 tile.thermalexpansion.tank.resonant.name=공진 휴대용 탱크
+
+#TCon compat
+material.thermalexpansion.invar=Invar
+material.thermalexpansion.nickel=Ferrous
+material.thermalexpansion.lead=Lead
+material.thermalexpansion.lead.ability=Heavy
+material.thermalexpansion.silver=Silver
+material.thermalexpansion.silver.ability=Shiny
+material.thermalexpansion.platinum=Shiny
+material.thermalexpansion.platinum.ability=Dense
+material.thermalexpansion.electrum=Electrum
+material.thermalexpansion.electrum.ability=Fancy
