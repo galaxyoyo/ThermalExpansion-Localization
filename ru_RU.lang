@@ -506,3 +506,263 @@ material.thermalexpansion.platinum=Платина
 material.thermalexpansion.platinum.ability=Плотность
 material.thermalexpansion.electrum=Электрум
 material.thermalexpansion.electrum.ability=Красота
+
+#Custom Names
+material.thermalexpansion.electrum.display=Электрумовая
+material.thermalexpansion.invar.display=Инваровая
+material.thermalexpansion.lead.display=Свинцовая
+material.thermalexpansion.nickel.display=Никелевая
+material.thermalexpansion.platinum.display=Блестящая
+material.thermalexpansion.silver.display=Серебряная
+
+toolpart.material.thermalexpansion.electrum=Электрумовый
+toolpart.material.thermalexpansion.invar=Инваровый
+toolpart.material.thermalexpansion.lead=Свинцовый
+toolpart.material.thermalexpansion.nickel=Никелевый
+toolpart.material.thermalexpansion.platinum=Блестящий
+toolpart.material.thermalexpansion.silver=Серебряный
+
+tool.hatchet.electrum=Электрумовый топорик
+tool.hatchet.invar=Инваровый топорик
+tool.hatchet.lead=Свинцовый топорик
+tool.hatchet.nickel=Никелевый топорик
+tool.hatchet.platinum=Блестящий топорик
+tool.hatchet.silver=Серебряный топорик
+
+tool.lumberaxe.electrum=Электрумовый большой топор
+tool.lumberaxe.invar=Инваровый большой топор
+tool.lumberaxe.lead=Свинцовый большой топор
+tool.lumberaxe.nickel=Никелевый большой топор
+tool.lumberaxe.platinum=Блестящий большой топор
+tool.lumberaxe.silver=Серебряный большой топор
+
+tool.mattock.electrum=Электрумовый мотыготопор
+tool.mattock.invar=Инваровый мотыготопор
+tool.mattock.lead=Свинцовый мотыготопор
+tool.mattock.nickel=Никелевый мотыготопор
+tool.mattock.platinum=Блестящий мотыготопор
+tool.mattock.silver=Серебряный мотыготопор
+
+tool.dagger.electrum=Электрумовый кинжал
+tool.dagger.invar=Инваровый кинжал
+tool.dagger.lead=Свинцовый кинжал
+tool.dagger.nickel=Никелевый кинжал
+tool.dagger.platinum=Блестящий кинжал
+tool.dagger.silver=Серебряный кинжал
+
+tool.longsword.electrum=Электрумовый полуторный меч
+tool.longsword.invar=Инваровый полуторный меч
+tool.longsword.lead=Свинцовый полуторный меч
+tool.longsword.nickel=Никелевый полуторный меч
+tool.longsword.platinum=Блестящий полуторный меч
+tool.longsword.silver=Серебряный полуторный меч
+
+tool.broadsword.electrum=Электрумовый палаш
+tool.broadsword.invar=Инваровый палаш
+tool.broadsword.lead=Свинцовый палаш
+tool.broadsword.nickel=Никелевый палаш
+tool.broadsword.platinum=Блестящий палаш
+tool.broadsword.silver=Серебряный палаш
+
+tool.crossbow.electrum=Электрумовый арбалет
+tool.crossbow.invar=Инваровый арбалет
+tool.crossbow.lead=Свинцовый арбалет
+tool.crossbow.nickel=Никелевый арбалет
+tool.crossbow.platinum=Блестящий арбалет
+tool.crossbow.silver=Серебряный арбалет
+
+tool.longbow.electrum=Электрумовый длинный лук
+tool.longbow.invar=Инваровый длинный лук
+tool.longbow.lead=Свинцовый длинный лук
+tool.longbow.nickel=Никелевый длинный лук
+tool.longbow.platinum=Блестящий длинный лук
+tool.longbow.silver=Серебряный длинный лук
+
+tool.shortbow.electrum=Электрумовый короткий лук
+tool.shortbow.invar=Инваровый короткий лук
+tool.shortbow.lead=Свинцовый короткий лук
+tool.shortbow.nickel=Никелевый короткий лук
+tool.shortbow.platinum=Блестящий короткий лук
+tool.shortbow.silver=Серебряный короткий лук
+
+tool.battleaxe.electrum=Электрумовый боевой топор
+tool.battleaxe.invar=Инваровый боевой топор
+tool.battleaxe.lead=Свинцовый боевой топор
+tool.battleaxe.nickel=Никелевый боевой топор
+tool.battleaxe.platinum=Блестящий боевой топор
+tool.battleaxe.silver=Серебряный боевой топор
+
+tool.hammer.electrum=Электрумовый молот
+tool.hammer.invar=Инваровый молот
+tool.hammer.lead=Свинцовый молот
+tool.hammer.nickel=Никелевый молот
+tool.hammer.platinum=Блестящий молот
+tool.hammer.silver=Серебряный молот
+
+tool.cleaver.electrum=Электрумовый тесак
+tool.cleaver.invar=Инваровый тесак
+tool.cleaver.lead=Свинцовый тесак
+tool.cleaver.nickel=Никелевый тесак
+tool.cleaver.platinum=Блестящий тесак
+tool.cleaver.silver=Серебряный тесак
+
+tool.javelin.electrum=Электрумовое копьё
+tool.javelin.invar=Инваровое копьё
+tool.javelin.lead=Свинцовое копьё
+tool.javelin.nickel=Никелевое копьё
+tool.javelin.platinum=Блестящее копьё
+tool.javelin.silver=Серебряное копьё
+
+tool.throwingknife.electrum=Электрумовый метательный нож
+tool.throwingknife.invar=Инваровый метательный нож
+tool.throwingknife.lead=Свинцовый метательный нож
+tool.throwingknife.nickel=Никелевый метательный нож
+tool.throwingknife.platinum=Блестящий метательный нож
+tool.throwingknife.silver=Серебряный метательный нож
+
+tool.shuriken.electrum=Электрумовый сюрикэн
+tool.shuriken.invar=Инваровый сюрикэн
+tool.shuriken.lead=Свинцовый сюрикэн
+tool.shuriken.nickel=Никелевый сюрикэн
+tool.shuriken.platinum=Блестящий сюрикэн
+tool.shuriken.silver=Серебряный сюрикэн
+
+tool.boltammo.electrum=Электрумовые болты
+tool.boltammo.invar=Инваровые болты
+tool.boltammo.lead=Свинцовые болты
+tool.boltammo.nickel=Никелевые болты
+tool.boltammo.platinum=Блестящие болты
+tool.boltammo.silver=Серебряные болты
+
+tool.arrowammo.electrum=Электрумовые стрелы
+tool.arrowammo.invar=Инваровые стрелы
+tool.arrowammo.lead=Свинцовые стрелы
+tool.arrowammo.nickel=Никелевые стрелы
+tool.arrowammo.platinum=Блестящие стрелы
+tool.arrowammo.silver=Серебряные стрелы
+
+toolpart.SwordBlade.thermalexpansion.electrum=Электрумовое лезвие меча
+toolpart.SwordBlade.thermalexpansion.invar=Инваровое лезвие меча
+toolpart.SwordBlade.thermalexpansion.lead=Свинцовое лезвие меча
+toolpart.SwordBlade.thermalexpansion.nickel=Никелевое лезвие меча
+toolpart.SwordBlade.thermalexpansion.platinum=Блестящее лезвие меча
+toolpart.SwordBlade.thermalexpansion.silver=Серебряное лезвие меча
+
+toolpart.ToughBinding.thermalexpansion.electrum=Электрумовое прочное крепление
+toolpart.ToughBinding.thermalexpansion.invar=Инваровое прочное крепление
+toolpart.ToughBinding.thermalexpansion.lead=Свинцовое прочное крепление
+toolpart.ToughBinding.thermalexpansion.nickel=Никелевое прочное крепление
+toolpart.ToughBinding.thermalexpansion.platinum=Блестящее прочное крепление
+toolpart.ToughBinding.thermalexpansion.silver=Серебряное прочное крепление
+
+toolpart.Binding.thermalexpansion.electrum=Электрумовое крепление
+toolpart.Binding.thermalexpansion.invar=Инваровое крепление
+toolpart.Binding.thermalexpansion.lead=Свинцовое крепление
+toolpart.Binding.thermalexpansion.nickel=Никелевое крепление
+toolpart.Binding.thermalexpansion.platinum=Блестящее крепление
+toolpart.Binding.thermalexpansion.silver=Серебряное крепление
+
+toolpart.KnifeBlade.thermalexpansion.electrum=Электрумовое лезвие ножа
+toolpart.KnifeBlade.thermalexpansion.invar=Инваровое лезвие ножа
+toolpart.KnifeBlade.thermalexpansion.lead=Свинцовое лезвие ножа
+toolpart.KnifeBlade.thermalexpansion.nickel=Никелевое лезвие ножа
+toolpart.KnifeBlade.thermalexpansion.platinum=Блестящее лезвие ножа
+toolpart.KnifeBlade.thermalexpansion.silver=Серебряное лезвие ножа
+
+toolpart.LargeSwordBlade.thermalexpansion.electrum=Электрумовое большое лезвие меча
+toolpart.LargeSwordBlade.thermalexpansion.invar=Инваровое большое лезвие меча
+toolpart.LargeSwordBlade.thermalexpansion.lead=Свинцовое большое лезвие меча
+toolpart.LargeSwordBlade.thermalexpansion.nickel=Никелевое большое лезвие меча
+toolpart.LargeSwordBlade.thermalexpansion.platinum=Блестящее большое лезвие меча
+toolpart.LargeSwordBlade.thermalexpansion.silver=Серебряное большое лезвие меча
+
+toolpart.ScytheHead.thermalexpansion.electrum=Электрумовое лезвие косы
+toolpart.ScytheHead.thermalexpansion.invar=Инваровое лезвие косы
+toolpart.ScytheHead.thermalexpansion.lead=Свинцовое лезвие косы
+toolpart.ScytheHead.thermalexpansion.nickel=Никелевое лезвие косы
+toolpart.ScytheHead.thermalexpansion.platinum=Блестящее лезвие косы
+toolpart.ScytheHead.thermalexpansion.silver=Серебряное лезвие косы
+
+toolpart.ChiselHead.thermalexpansion.electrum=Электрумовое лезвие стамески
+toolpart.ChiselHead.thermalexpansion.invar=Инваровое лезвие стамески
+toolpart.ChiselHead.thermalexpansion.lead=Свинцовое лезвие стамески
+toolpart.ChiselHead.thermalexpansion.nickel=Никелевое лезвие стамески
+toolpart.ChiselHead.thermalexpansion.platinum=Блестящее лезвие стамески
+toolpart.ChiselHead.thermalexpansion.silver=Серебряное лезвие стамески
+
+toolpart.Crossbar.thermalexpansion.electrum=Электрумовая поперечная гарда
+toolpart.Crossbar.thermalexpansion.invar=Инваровая поперечная гарда
+toolpart.Crossbar.thermalexpansion.lead=Свинцовая поперечная гарда
+toolpart.Crossbar.thermalexpansion.nickel=Никелевая поперечная гарда
+toolpart.Crossbar.thermalexpansion.platinum=Блестящая поперечная гарда
+toolpart.Crossbar.thermalexpansion.silver=Серебряная поперечная гарда
+
+toolpart.MediumGuard.thermalexpansion.electrum=Электрумовая малая гарда
+toolpart.MediumGuard.thermalexpansion.invar=Инваровая малая гарда
+toolpart.MediumGuard.thermalexpansion.lead=Свинцовая малая гарда
+toolpart.MediumGuard.thermalexpansion.nickel=Никелевая малая гарда
+toolpart.MediumGuard.thermalexpansion.platinum=Блестящая малая гарда
+toolpart.MediumGuard.thermalexpansion.silver=Серебряная малая гарда
+
+toolpart.LargeGuard.thermalexpansion.electrum=Электрумовая широкая гарда
+toolpart.LargeGuard.thermalexpansion.invar=Инваровая широкая гарда
+toolpart.LargeGuard.thermalexpansion.lead=Свинцовая широкая гарда
+toolpart.LargeGuard.thermalexpansion.nickel=Никелевая широкая гарда
+toolpart.LargeGuard.thermalexpansion.platinum=Блестящая широкая гарда
+toolpart.LargeGuard.thermalexpansion.silver=Серебряная широкая гарда
+
+toolpart.LargePlate.thermalexpansion.electrum=Электрумовая большая пластина
+toolpart.LargePlate.thermalexpansion.invar=Инваровая большая пластина
+toolpart.LargePlate.thermalexpansion.lead=Свинцовая большая пластина
+toolpart.LargePlate.thermalexpansion.nickel=Никелевая большая пластина
+toolpart.LargePlate.thermalexpansion.platinum=Блестящая большая пластина
+toolpart.LargePlate.thermalexpansion.silver=Серебряная большая пластина
+
+toolpart.ExcavatorHead.thermalexpansion.electrum=Электрумовая пластина копалки
+toolpart.ExcavatorHead.thermalexpansion.invar=Инваровая пластина копалки
+toolpart.ExcavatorHead.thermalexpansion.lead=Свинцовая пластина копалки
+toolpart.ExcavatorHead.thermalexpansion.nickel=Никелевая пластина копалки
+toolpart.ExcavatorHead.thermalexpansion.platinum=Блестящая пластина копалки
+toolpart.ExcavatorHead.thermalexpansion.silver=Серебряная пластина копалки
+
+toolpart.SignHead.thermalexpansion.electrum=Электрумовая табличка
+toolpart.SignHead.thermalexpansion.invar=Инваровая табличка
+toolpart.SignHead.thermalexpansion.lead=Свинцовая табличка
+toolpart.SignHead.thermalexpansion.nickel=Никелевая табличка
+toolpart.SignHead.thermalexpansion.platinum=Блестящая табличка
+toolpart.SignHead.thermalexpansion.silver=Серебряная табличка
+
+toolpart.FrypanHead.thermalexpansion.electrum=Электрумовая сковорода
+toolpart.FrypanHead.thermalexpansion.invar=Инваровая сковорода
+toolpart.FrypanHead.thermalexpansion.lead=Свинцовая сковорода
+toolpart.FrypanHead.thermalexpansion.nickel=Никелевая сковорода
+toolpart.FrypanHead.thermalexpansion.platinum=Блестящая сковорода
+toolpart.FrypanHead.thermalexpansion.silver=Серебряная сковорода
+
+toolpart.FullGuard.thermalexpansion.electrum=Электрумовая полная гарда
+toolpart.FullGuard.thermalexpansion.invar=Инваровая полная гарда
+toolpart.FullGuard.thermalexpansion.lead=Свинцовая полная гарда
+toolpart.FullGuard.thermalexpansion.nickel=Никелевая полная гарда
+toolpart.FullGuard.thermalexpansion.platinum=Блестящая полная гарда
+toolpart.FullGuard.thermalexpansion.silver=Серебряная полная гарда
+
+toolpart.CrossbowBody.thermalexpansion.electrum=Электрумовая основа арбалета
+toolpart.CrossbowBody.thermalexpansion.invar=Инваровая основа арбалета
+toolpart.CrossbowBody.thermalexpansion.lead=Свинцовая основа арбалета
+toolpart.CrossbowBody.thermalexpansion.nickel=Никелевая основа арбалета
+toolpart.CrossbowBody.thermalexpansion.platinum=Блестящая основа арбалета
+toolpart.CrossbowBody.thermalexpansion.silver=Серебряная основа арбалета
+
+toolpart.CrossbowLimb.thermalexpansion.electrum=Электрумовое плечо арбалета
+toolpart.CrossbowLimb.thermalexpansion.invar=Инваровое плечо арбалета
+toolpart.CrossbowLimb.thermalexpansion.lead=Свинцовое плечо арбалета
+toolpart.CrossbowLimb.thermalexpansion.nickel=Никелевое плечо арбалета
+toolpart.CrossbowLimb.thermalexpansion.platinum=Блестящее плечо арбалета
+toolpart.CrossbowLimb.thermalexpansion.silver=Серебряное плечо арбалета
+
+toolpart.BowLimb.thermalexpansion.invar=Инваровое плечо лука
+toolpart.BowLimb.thermalexpansion.electrum=Электрумовое плечо лука
+toolpart.BowLimb.thermalexpansion.lead=Свинцовое плечо лука
+toolpart.BowLimb.thermalexpansion.nickel=Никелевое плечо лука
+toolpart.BowLimb.thermalexpansion.platinum=Блестящее плечо лука
+toolpart.BowLimb.thermalexpansion.silver=Серебряное плечо лука
