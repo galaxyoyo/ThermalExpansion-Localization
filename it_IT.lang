@@ -458,7 +458,7 @@ tile.thermalexpansion.machine.extruder.name=Estrudatore igneo
 tile.thermalexpansion.machine.accumulator.name=Accumulatore acquoso
 tile.thermalexpansion.machine.assembler.name=Assemblatore ciclico
 tile.thermalexpansion.machine.charger.name=Infondatore energetico
-tile.thermalexpansion.machine.insolator.name=Isolatore Phytogenico
+tile.thermalexpansion.machine.insolator.name=Isolatore phytogenico
 
 tile.thermalexpansion.plate.frame.name=Telaio per piastra
 tile.thermalexpansion.plate.impulse.name=Piastra a impulso
