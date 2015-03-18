@@ -509,7 +509,7 @@ tile.thermalexpansion.tank.resonant.name=諧律可攜水槽
 
 #TCon compat
 material.thermalexpansion.invar=殷鋼
-material.thermalexpansion.nickel=鎳
+material.thermalexpansion.nickel=亞鐵
 material.thermalexpansion.lead=鉛
 material.thermalexpansion.lead.ability=沉重
 material.thermalexpansion.silver=銀
