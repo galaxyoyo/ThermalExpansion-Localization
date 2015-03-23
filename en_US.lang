@@ -136,6 +136,7 @@ info.thermalexpansion.augment.fuelConsumed=Fuel Consumed
 info.thermalexpansion.augment.fuelEnergy=Base Fuel Energy
 info.thermalexpansion.augment.levels.0=Requires previous levels to be installed.
 info.thermalexpansion.augment.levels.1=Highest Level Augment is used.
+info.thermalexpansion.augment.levels.2=Requires Redstone Control to be installed.
 info.thermalexpansion.augment.machine.0=Requires a
 info.thermalexpansion.augment.machine.1=Machine
 info.thermalexpansion.augment.secondaryChance=Secondary Chance
@@ -235,13 +236,13 @@ info.thermalexpansion.wrench=Wrench while sneaking to dismantle.
 
 #Items
 item.thermalexpansion.augment.dynamoCoilDuct.name=Transmission Coil Ducting
+item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
 item.thermalexpansion.augment.dynamoEfficiency0.name=Secondary Gearbox
 item.thermalexpansion.augment.dynamoEfficiency1.name=Flux Linkage Optimization
 item.thermalexpansion.augment.dynamoEfficiency2.name=CryoCoil Regulator
 item.thermalexpansion.augment.dynamoOutput0.name=Secondary Transmission Coil
 item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulation Booster
 item.thermalexpansion.augment.dynamoOutput2.name=CryoCoil Flux Amplifier
-item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
 
 item.thermalexpansion.augment.generalAutoTransfer.name=Integrated Servo Mechanism
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
